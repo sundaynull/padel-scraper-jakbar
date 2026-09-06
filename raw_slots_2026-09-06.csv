@@ -329,7 +329,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1222_3304_18:00,1222,Westside Padel,3304,Court 3,2026-09-06,18:00 - 19:00,235000,Booked
 1222_3304_19:00,1222,Westside Padel,3304,Court 3,2026-09-06,19:00 - 20:00,235000,Booked
 1222_3304_20:00,1222,Westside Padel,3304,Court 3,2026-09-06,20:00 - 21:00,235000,Available
-1222_3304_21:00,1222,Westside Padel,3304,Court 3,2026-09-06,21:00 - 22:00,235000,Available
+1222_3304_21:00,1222,Westside Padel,3304,Court 3,2026-09-06,21:00 - 22:00,235000,Booked
 1222_3305_08:00,1222,Westside Padel,3305,Court 4,2026-09-06,08:00 - 09:00,235000,Booked
 1222_3305_09:00,1222,Westside Padel,3305,Court 4,2026-09-06,09:00 - 10:00,235000,Booked
 1222_3305_10:00,1222,Westside Padel,3305,Court 4,2026-09-06,10:00 - 11:00,235000,Booked
@@ -343,7 +343,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1222_3305_18:00,1222,Westside Padel,3305,Court 4,2026-09-06,18:00 - 19:00,235000,Booked
 1222_3305_19:00,1222,Westside Padel,3305,Court 4,2026-09-06,19:00 - 20:00,235000,Booked
 1222_3305_20:00,1222,Westside Padel,3305,Court 4,2026-09-06,20:00 - 21:00,235000,Available
-1222_3305_21:00,1222,Westside Padel,3305,Court 4,2026-09-06,21:00 - 22:00,235000,Available
+1222_3305_21:00,1222,Westside Padel,3305,Court 4,2026-09-06,21:00 - 22:00,235000,Booked
 1252_2257_08:00,1252,Padel One Club,2257,Court A,2026-09-06,08:00 - 09:00,99000,Booked
 1252_2257_09:00,1252,Padel One Club,2257,Court A,2026-09-06,09:00 - 10:00,99000,Booked
 1252_2257_10:00,1252,Padel One Club,2257,Court A,2026-09-06,10:00 - 11:00,99000,Booked
@@ -481,8 +481,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1268_2393_18:00,1268,Max Padel,2393,Court 1,2026-09-06,18:00 - 19:00,250000,Available
 1268_2393_19:00,1268,Max Padel,2393,Court 1,2026-09-06,19:00 - 20:00,250000,Available
 1268_2393_20:00,1268,Max Padel,2393,Court 1,2026-09-06,20:00 - 21:00,250000,Available
-1268_2393_21:00,1268,Max Padel,2393,Court 1,2026-09-06,21:00 - 22:00,250000,Available
-1268_2393_22:00,1268,Max Padel,2393,Court 1,2026-09-06,22:00 - 23:00,175000,Available
+1268_2393_21:00,1268,Max Padel,2393,Court 1,2026-09-06,21:00 - 22:00,250000,Booked
+1268_2393_22:00,1268,Max Padel,2393,Court 1,2026-09-06,22:00 - 23:00,175000,Booked
 1268_2393_23:00,1268,Max Padel,2393,Court 1,2026-09-06,23:00 - 00:00,175000,Available
 1268_2394_08:00,1268,Max Padel,2394,Court 2,2026-09-06,08:00 - 09:00,175000,Available
 1268_2394_09:00,1268,Max Padel,2394,Court 2,2026-09-06,09:00 - 10:00,175000,Available
@@ -649,7 +649,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1300_7172_18:00,1300,The Citadel,7172,Court 3,2026-09-06,18:00 - 19:00,300000,Available
 1300_7172_19:00,1300,The Citadel,7172,Court 3,2026-09-06,19:00 - 20:00,300000,Available
 1300_7172_20:00,1300,The Citadel,7172,Court 3,2026-09-06,20:00 - 21:00,300000,Available
-1300_7172_21:00,1300,The Citadel,7172,Court 3,2026-09-06,21:00 - 22:00,300000,Available
+1300_7172_21:00,1300,The Citadel,7172,Court 3,2026-09-06,21:00 - 22:00,300000,Booked
 1300_7173_08:00,1300,The Citadel,7173,Court 4,2026-09-06,08:00 - 09:00,300000,Available
 1300_7173_09:00,1300,The Citadel,7173,Court 4,2026-09-06,09:00 - 10:00,300000,Available
 1300_7173_10:00,1300,The Citadel,7173,Court 4,2026-09-06,10:00 - 11:00,300000,Available
@@ -802,8 +802,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1368_2597_18:00,1368,Vlocity Arena,2597,Padel 1,2026-09-06,18:00 - 19:00,137500,Booked
 1368_2597_19:00,1368,Vlocity Arena,2597,Padel 1,2026-09-06,19:00 - 20:00,137500,Available
 1368_2597_20:00,1368,Vlocity Arena,2597,Padel 1,2026-09-06,20:00 - 21:00,137500,Available
-1368_2597_21:00,1368,Vlocity Arena,2597,Padel 1,2026-09-06,21:00 - 22:00,137500,Available
-1368_2597_22:00,1368,Vlocity Arena,2597,Padel 1,2026-09-06,22:00 - 23:00,137500,Available
+1368_2597_21:00,1368,Vlocity Arena,2597,Padel 1,2026-09-06,21:00 - 22:00,137500,Booked
+1368_2597_22:00,1368,Vlocity Arena,2597,Padel 1,2026-09-06,22:00 - 23:00,137500,Booked
 1368_2597_23:00,1368,Vlocity Arena,2597,Padel 1,2026-09-06,23:00 - 00:00,137500,Available
 1368_2598_08:00,1368,Vlocity Arena,2598,Padel 2,2026-09-06,08:00 - 09:00,137500,Booked
 1368_2598_09:00,1368,Vlocity Arena,2598,Padel 2,2026-09-06,09:00 - 10:00,137500,Booked
@@ -1068,8 +1068,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1542_3115_19:00,1542,Stone Padel - Citra Garden City,3115,Private Court,2026-09-06,19:00 - 20:00,200000,Available
 1542_3115_20:00,1542,Stone Padel - Citra Garden City,3115,Private Court,2026-09-06,20:00 - 21:00,200000,Available
 1542_3115_21:00,1542,Stone Padel - Citra Garden City,3115,Private Court,2026-09-06,21:00 - 22:00,200000,Available
-1542_3115_22:00,1542,Stone Padel - Citra Garden City,3115,Private Court,2026-09-06,22:00 - 23:00,100000,Available
-1542_3115_23:00,1542,Stone Padel - Citra Garden City,3115,Private Court,2026-09-06,23:00 - 00:00,100000,Available
+1542_3115_22:00,1542,Stone Padel - Citra Garden City,3115,Private Court,2026-09-06,22:00 - 23:00,100000,Booked
+1542_3115_23:00,1542,Stone Padel - Citra Garden City,3115,Private Court,2026-09-06,23:00 - 00:00,100000,Booked
 1542_6003_08:00,1542,Stone Padel - Citra Garden City,6003,Court 1,2026-09-06,08:00 - 09:00,100000,Available
 1542_6003_09:00,1542,Stone Padel - Citra Garden City,6003,Court 1,2026-09-06,09:00 - 10:00,100000,Booked
 1542_6003_10:00,1542,Stone Padel - Citra Garden City,6003,Court 1,2026-09-06,10:00 - 11:00,100000,Booked
@@ -1683,7 +1683,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1679_6873_18:00,1679,IPC Padel Club Kedoya,6873,5 Terracotta,2026-09-06,18:00 - 19:00,150000,Booked
 1679_6873_19:00,1679,IPC Padel Club Kedoya,6873,5 Terracotta,2026-09-06,19:00 - 20:00,150000,Available
 1679_6873_20:00,1679,IPC Padel Club Kedoya,6873,5 Terracotta,2026-09-06,20:00 - 21:00,150000,Available
-1679_6873_21:00,1679,IPC Padel Club Kedoya,6873,5 Terracotta,2026-09-06,21:00 - 22:00,150000,Available
+1679_6873_21:00,1679,IPC Padel Club Kedoya,6873,5 Terracotta,2026-09-06,21:00 - 22:00,150000,Booked
 1679_6873_22:00,1679,IPC Padel Club Kedoya,6873,5 Terracotta,2026-09-06,22:00 - 23:00,150000,Available
 1679_6873_23:00,1679,IPC Padel Club Kedoya,6873,5 Terracotta,2026-09-06,23:00 - 00:00,150000,Available
 1679_6874_08:00,1679,IPC Padel Club Kedoya,6874,6 Terracotta,2026-09-06,08:00 - 09:00,150000,Available
@@ -1699,7 +1699,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1679_6874_18:00,1679,IPC Padel Club Kedoya,6874,6 Terracotta,2026-09-06,18:00 - 19:00,150000,Available
 1679_6874_19:00,1679,IPC Padel Club Kedoya,6874,6 Terracotta,2026-09-06,19:00 - 20:00,150000,Available
 1679_6874_20:00,1679,IPC Padel Club Kedoya,6874,6 Terracotta,2026-09-06,20:00 - 21:00,150000,Available
-1679_6874_21:00,1679,IPC Padel Club Kedoya,6874,6 Terracotta,2026-09-06,21:00 - 22:00,150000,Available
+1679_6874_21:00,1679,IPC Padel Club Kedoya,6874,6 Terracotta,2026-09-06,21:00 - 22:00,150000,Booked
 1679_6874_22:00,1679,IPC Padel Club Kedoya,6874,6 Terracotta,2026-09-06,22:00 - 23:00,150000,Available
 1679_6874_23:00,1679,IPC Padel Club Kedoya,6874,6 Terracotta,2026-09-06,23:00 - 00:00,150000,Available
 1679_6875_08:00,1679,IPC Padel Club Kedoya,6875,7 Pink,2026-09-06,08:00 - 09:00,150000,Booked
@@ -1747,8 +1747,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1785_3635_18:00,1785,Badel Padel,3635,Ppc 1,2026-09-06,18:00 - 19:00,175000,Booked
 1785_3635_19:00,1785,Badel Padel,3635,Ppc 1,2026-09-06,19:00 - 20:00,175000,Available
 1785_3635_20:00,1785,Badel Padel,3635,Ppc 1,2026-09-06,20:00 - 21:00,100000,Available
-1785_3635_21:00,1785,Badel Padel,3635,Ppc 1,2026-09-06,21:00 - 22:00,100000,Available
-1785_3635_22:00,1785,Badel Padel,3635,Ppc 1,2026-09-06,22:00 - 23:00,100000,Available
+1785_3635_21:00,1785,Badel Padel,3635,Ppc 1,2026-09-06,21:00 - 22:00,100000,Booked
+1785_3635_22:00,1785,Badel Padel,3635,Ppc 1,2026-09-06,22:00 - 23:00,100000,Booked
 1785_3635_23:00,1785,Badel Padel,3635,Ppc 1,2026-09-06,23:00 - 00:00,100000,Available
 1785_4467_08:00,1785,Badel Padel,4467,Ppc 2,2026-09-06,08:00 - 09:00,175000,Booked
 1785_4467_09:00,1785,Badel Padel,4467,Ppc 2,2026-09-06,09:00 - 10:00,175000,Booked
@@ -1764,7 +1764,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1785_4467_19:00,1785,Badel Padel,4467,Ppc 2,2026-09-06,19:00 - 20:00,175000,Booked
 1785_4467_20:00,1785,Badel Padel,4467,Ppc 2,2026-09-06,20:00 - 21:00,100000,Booked
 1785_4467_21:00,1785,Badel Padel,4467,Ppc 2,2026-09-06,21:00 - 22:00,100000,Booked
-1785_4467_22:00,1785,Badel Padel,4467,Ppc 2,2026-09-06,22:00 - 23:00,100000,Available
+1785_4467_22:00,1785,Badel Padel,4467,Ppc 2,2026-09-06,22:00 - 23:00,100000,Booked
 1785_4467_23:00,1785,Badel Padel,4467,Ppc 2,2026-09-06,23:00 - 00:00,100000,Available
 1785_4468_08:00,1785,Badel Padel,4468,Ppc 3,2026-09-06,08:00 - 09:00,175000,Booked
 1785_4468_09:00,1785,Badel Padel,4468,Ppc 3,2026-09-06,09:00 - 10:00,175000,Available
@@ -1780,7 +1780,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1785_4468_19:00,1785,Badel Padel,4468,Ppc 3,2026-09-06,19:00 - 20:00,175000,Available
 1785_4468_20:00,1785,Badel Padel,4468,Ppc 3,2026-09-06,20:00 - 21:00,100000,Booked
 1785_4468_21:00,1785,Badel Padel,4468,Ppc 3,2026-09-06,21:00 - 22:00,100000,Booked
-1785_4468_22:00,1785,Badel Padel,4468,Ppc 3,2026-09-06,22:00 - 23:00,100000,Available
+1785_4468_22:00,1785,Badel Padel,4468,Ppc 3,2026-09-06,22:00 - 23:00,100000,Booked
 1785_4468_23:00,1785,Badel Padel,4468,Ppc 3,2026-09-06,23:00 - 00:00,100000,Available
 1785_4469_08:00,1785,Badel Padel,4469,Ppc 4,2026-09-06,08:00 - 09:00,175000,Available
 1785_4469_09:00,1785,Badel Padel,4469,Ppc 4,2026-09-06,09:00 - 10:00,175000,Available
@@ -1795,8 +1795,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1785_4469_18:00,1785,Badel Padel,4469,Ppc 4,2026-09-06,18:00 - 19:00,175000,Booked
 1785_4469_19:00,1785,Badel Padel,4469,Ppc 4,2026-09-06,19:00 - 20:00,175000,Available
 1785_4469_20:00,1785,Badel Padel,4469,Ppc 4,2026-09-06,20:00 - 21:00,100000,Available
-1785_4469_21:00,1785,Badel Padel,4469,Ppc 4,2026-09-06,21:00 - 22:00,100000,Available
-1785_4469_22:00,1785,Badel Padel,4469,Ppc 4,2026-09-06,22:00 - 23:00,100000,Available
+1785_4469_21:00,1785,Badel Padel,4469,Ppc 4,2026-09-06,21:00 - 22:00,100000,Booked
+1785_4469_22:00,1785,Badel Padel,4469,Ppc 4,2026-09-06,22:00 - 23:00,100000,Booked
 1785_4469_23:00,1785,Badel Padel,4469,Ppc 4,2026-09-06,23:00 - 00:00,100000,Available
 1791_3646_08:00,1791,Base Padel,3646,Court 2,2026-09-06,08:00 - 09:00,195000,Available
 1791_3646_09:00,1791,Base Padel,3646,Court 2,2026-09-06,09:00 - 10:00,195000,Available
@@ -2008,8 +2008,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1930_6857_18:00,1930,Padelgrounds,6857,COURT C,2026-09-06,18:00 - 19:00,120000,Booked
 1930_6857_19:00,1930,Padelgrounds,6857,COURT C,2026-09-06,19:00 - 20:00,120000,Booked
 1930_6857_20:00,1930,Padelgrounds,6857,COURT C,2026-09-06,20:00 - 21:00,99000,Booked
-1930_6857_21:00,1930,Padelgrounds,6857,COURT C,2026-09-06,21:00 - 22:00,99000,Available
-1930_6857_22:00,1930,Padelgrounds,6857,COURT C,2026-09-06,22:00 - 23:00,99000,Available
+1930_6857_21:00,1930,Padelgrounds,6857,COURT C,2026-09-06,21:00 - 22:00,99000,Booked
+1930_6857_22:00,1930,Padelgrounds,6857,COURT C,2026-09-06,22:00 - 23:00,99000,Booked
 1982_4103_08:00,1982,Glass House Padel,4103,Court 1,2026-09-06,08:00 - 09:00,149000,Booked
 1982_4103_09:00,1982,Glass House Padel,4103,Court 1,2026-09-06,09:00 - 10:00,149000,Booked
 1982_4103_10:00,1982,Glass House Padel,4103,Court 1,2026-09-06,10:00 - 11:00,149000,Booked
@@ -2234,8 +2234,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2110_6159_18:00,2110,Hobi Padel Meruya,6159,Court 4,2026-09-06,18:00 - 19:00,148000,Booked
 2110_6159_19:00,2110,Hobi Padel Meruya,6159,Court 4,2026-09-06,19:00 - 20:00,148000,Available
 2110_6159_20:00,2110,Hobi Padel Meruya,6159,Court 4,2026-09-06,20:00 - 21:00,148000,Available
-2110_6159_21:00,2110,Hobi Padel Meruya,6159,Court 4,2026-09-06,21:00 - 22:00,148000,Available
-2110_6159_22:00,2110,Hobi Padel Meruya,6159,Court 4,2026-09-06,22:00 - 23:00,98000,Available
+2110_6159_21:00,2110,Hobi Padel Meruya,6159,Court 4,2026-09-06,21:00 - 22:00,148000,Booked
+2110_6159_22:00,2110,Hobi Padel Meruya,6159,Court 4,2026-09-06,22:00 - 23:00,98000,Booked
 2110_6159_23:00,2110,Hobi Padel Meruya,6159,Court 4,2026-09-06,23:00 - 00:00,98000,Available
 2132_4745_08:00,2132,The Padel Point,4745,Court A,2026-09-06,08:00 - 09:00,200000,Booked
 2132_4745_09:00,2132,The Padel Point,4745,Court A,2026-09-06,09:00 - 10:00,200000,Available
@@ -3061,8 +3061,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2415_5095_19:00,2415,Padelin,5095,Court 1,2026-09-06,19:00 - 20:00,200000,Available
 2415_5095_20:00,2415,Padelin,5095,Court 1,2026-09-06,20:00 - 21:00,200000,Available
 2415_5095_21:00,2415,Padelin,5095,Court 1,2026-09-06,21:00 - 22:00,200000,Available
-2415_5095_22:00,2415,Padelin,5095,Court 1,2026-09-06,22:00 - 23:00,100000,Available
-2415_5095_23:00,2415,Padelin,5095,Court 1,2026-09-06,23:00 - 00:00,100000,Available
+2415_5095_22:00,2415,Padelin,5095,Court 1,2026-09-06,22:00 - 23:00,100000,Booked
+2415_5095_23:00,2415,Padelin,5095,Court 1,2026-09-06,23:00 - 00:00,100000,Booked
 2415_7551_08:00,2415,Padelin,7551,Court 2,2026-09-06,08:00 - 09:00,70000,Booked
 2415_7551_09:00,2415,Padelin,7551,Court 2,2026-09-06,09:00 - 10:00,70000,Booked
 2415_7551_10:00,2415,Padelin,7551,Court 2,2026-09-06,10:00 - 11:00,100000,Booked
@@ -3300,7 +3300,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2506_5391_18:00,2506,Padel Meruya Airdome,5391,Court 1,2026-09-06,18:00 - 19:00,399000,Available
 2506_5391_19:00,2506,Padel Meruya Airdome,5391,Court 1,2026-09-06,19:00 - 20:00,399000,Available
 2506_5391_20:00,2506,Padel Meruya Airdome,5391,Court 1,2026-09-06,20:00 - 21:00,399000,Available
-2506_5391_21:00,2506,Padel Meruya Airdome,5391,Court 1,2026-09-06,21:00 - 22:00,399000,Available
+2506_5391_21:00,2506,Padel Meruya Airdome,5391,Court 1,2026-09-06,21:00 - 22:00,399000,Booked
 2506_5391_22:00,2506,Padel Meruya Airdome,5391,Court 1,2026-09-06,22:00 - 23:00,399000,Available
 2519_5434_08:00,2519,Hachi Padel Puri Indah Jakarta,5434,Court 1,2026-09-06,08:00 - 09:00,288000,Available
 2519_5434_09:00,2519,Hachi Padel Puri Indah Jakarta,5434,Court 1,2026-09-06,09:00 - 10:00,288000,Booked
@@ -3345,7 +3345,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2519_5436_18:00,2519,Hachi Padel Puri Indah Jakarta,5436,Court 3,2026-09-06,18:00 - 19:00,288000,Available
 2519_5436_19:00,2519,Hachi Padel Puri Indah Jakarta,5436,Court 3,2026-09-06,19:00 - 20:00,288000,Available
 2519_5436_20:00,2519,Hachi Padel Puri Indah Jakarta,5436,Court 3,2026-09-06,20:00 - 21:00,288000,Available
-2519_5436_21:00,2519,Hachi Padel Puri Indah Jakarta,5436,Court 3,2026-09-06,21:00 - 22:00,288000,Available
+2519_5436_21:00,2519,Hachi Padel Puri Indah Jakarta,5436,Court 3,2026-09-06,21:00 - 22:00,288000,Booked
 2519_5436_22:00,2519,Hachi Padel Puri Indah Jakarta,5436,Court 3,2026-09-06,22:00 - 23:00,288000,Available
 2519_5437_08:00,2519,Hachi Padel Puri Indah Jakarta,5437,Court 4,2026-09-06,08:00 - 09:00,288000,Available
 2519_5437_09:00,2519,Hachi Padel Puri Indah Jakarta,5437,Court 4,2026-09-06,09:00 - 10:00,288000,Available
@@ -3360,7 +3360,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2519_5437_18:00,2519,Hachi Padel Puri Indah Jakarta,5437,Court 4,2026-09-06,18:00 - 19:00,288000,Available
 2519_5437_19:00,2519,Hachi Padel Puri Indah Jakarta,5437,Court 4,2026-09-06,19:00 - 20:00,288000,Available
 2519_5437_20:00,2519,Hachi Padel Puri Indah Jakarta,5437,Court 4,2026-09-06,20:00 - 21:00,288000,Available
-2519_5437_21:00,2519,Hachi Padel Puri Indah Jakarta,5437,Court 4,2026-09-06,21:00 - 22:00,288000,Available
+2519_5437_21:00,2519,Hachi Padel Puri Indah Jakarta,5437,Court 4,2026-09-06,21:00 - 22:00,288000,Booked
 2519_5437_22:00,2519,Hachi Padel Puri Indah Jakarta,5437,Court 4,2026-09-06,22:00 - 23:00,288000,Available
 2617_6948_08:00,2617,JC Padel Kedoya,6948,Purple Court,2026-09-06,08:00 - 09:00,111111,Booked
 2617_6948_09:00,2617,JC Padel Kedoya,6948,Purple Court,2026-09-06,09:00 - 10:00,111111,Booked
@@ -3477,7 +3477,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2667_5976_18:00,2667,Paddle Padel,5976,Court Right,2026-09-06,18:00 - 19:00,200000,Available
 2667_5976_19:00,2667,Paddle Padel,5976,Court Right,2026-09-06,19:00 - 20:00,200000,Available
 2667_5976_20:00,2667,Paddle Padel,5976,Court Right,2026-09-06,20:00 - 21:00,200000,Available
-2667_5976_21:00,2667,Paddle Padel,5976,Court Right,2026-09-06,21:00 - 22:00,200000,Available
+2667_5976_21:00,2667,Paddle Padel,5976,Court Right,2026-09-06,21:00 - 22:00,200000,Booked
 2667_5976_22:00,2667,Paddle Padel,5976,Court Right,2026-09-06,22:00 - 23:00,200000,Available
 2667_5976_23:00,2667,Paddle Padel,5976,Court Right,2026-09-06,23:00 - 00:00,200000,Available
 2674_7654_08:00,2674,Roots Padel House,7654,The House,2026-09-06,08:00 - 09:00,149000,Available
@@ -3918,7 +3918,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2983_6954_18:00,2983,YOLO Padel and Lifestyle Slipi,6954,Court 1,2026-09-06,18:00 - 19:00,300000,Available
 2983_6954_19:00,2983,YOLO Padel and Lifestyle Slipi,6954,Court 1,2026-09-06,19:00 - 20:00,300000,Available
 2983_6954_20:00,2983,YOLO Padel and Lifestyle Slipi,6954,Court 1,2026-09-06,20:00 - 21:00,300000,Available
-2983_6954_21:00,2983,YOLO Padel and Lifestyle Slipi,6954,Court 1,2026-09-06,21:00 - 22:00,300000,Available
+2983_6954_21:00,2983,YOLO Padel and Lifestyle Slipi,6954,Court 1,2026-09-06,21:00 - 22:00,300000,Booked
 2983_6955_08:00,2983,YOLO Padel and Lifestyle Slipi,6955,Court 2,2026-09-06,08:00 - 09:00,300000,Available
 2983_6955_09:00,2983,YOLO Padel and Lifestyle Slipi,6955,Court 2,2026-09-06,09:00 - 10:00,300000,Available
 2983_6955_10:00,2983,YOLO Padel and Lifestyle Slipi,6955,Court 2,2026-09-06,10:00 - 11:00,300000,Available
@@ -4026,7 +4026,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3062_7170_18:00,3062,Padel V,7170,Court 1,2026-09-06,18:00 - 19:00,150000,Booked
 3062_7170_19:00,3062,Padel V,7170,Court 1,2026-09-06,19:00 - 20:00,150000,Booked
 3062_7170_20:00,3062,Padel V,7170,Court 1,2026-09-06,20:00 - 21:00,150000,Booked
-3062_7170_21:00,3062,Padel V,7170,Court 1,2026-09-06,21:00 - 22:00,150000,Available
+3062_7170_21:00,3062,Padel V,7170,Court 1,2026-09-06,21:00 - 22:00,150000,Booked
 3062_7170_22:00,3062,Padel V,7170,Court 1,2026-09-06,22:00 - 23:00,150000,Available
 3062_9024_08:00,3062,Padel V,9024,Court 2,2026-09-06,08:00 - 09:00,150000,Available
 3062_9024_09:00,3062,Padel V,9024,Court 2,2026-09-06,09:00 - 10:00,150000,Available
@@ -4041,7 +4041,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3062_9024_18:00,3062,Padel V,9024,Court 2,2026-09-06,18:00 - 19:00,150000,Booked
 3062_9024_19:00,3062,Padel V,9024,Court 2,2026-09-06,19:00 - 20:00,150000,Booked
 3062_9024_20:00,3062,Padel V,9024,Court 2,2026-09-06,20:00 - 21:00,150000,Booked
-3062_9024_21:00,3062,Padel V,9024,Court 2,2026-09-06,21:00 - 22:00,150000,Available
+3062_9024_21:00,3062,Padel V,9024,Court 2,2026-09-06,21:00 - 22:00,150000,Booked
 3062_9024_22:00,3062,Padel V,9024,Court 2,2026-09-06,22:00 - 23:00,150000,Available
 3064_7631_08:00,3064,Country Club | Padel & Lounge,7631,Court 1,2026-09-06,08:00 - 09:00,200000,Available
 3064_7631_09:00,3064,Country Club | Padel & Lounge,7631,Court 1,2026-09-06,09:00 - 10:00,200000,Available
@@ -4828,7 +4828,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3308_8337_18:00,3308,Angke Padel,8337,Court F,2026-09-06,18:00 - 19:00,100000,Available
 3308_8337_19:00,3308,Angke Padel,8337,Court F,2026-09-06,19:00 - 20:00,100000,Available
 3308_8337_20:00,3308,Angke Padel,8337,Court F,2026-09-06,20:00 - 21:00,100000,Available
-3308_8337_21:00,3308,Angke Padel,8337,Court F,2026-09-06,21:00 - 22:00,100000,Available
+3308_8337_21:00,3308,Angke Padel,8337,Court F,2026-09-06,21:00 - 22:00,100000,Booked
 3308_8337_22:00,3308,Angke Padel,8337,Court F,2026-09-06,22:00 - 23:00,100000,Available
 3308_8337_23:00,3308,Angke Padel,8337,Court F,2026-09-06,23:00 - 00:00,100000,Available
 332_487_08:00,332,Fighter Hall,487,Hall 1,2026-09-06,08:00 - 09:00,70000,Booked
@@ -5023,7 +5023,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3358_8176_18:00,3358,Kaia Padel Reserve,8176,Court A (Green),2026-09-06,18:00 - 19:00,150000,Booked
 3358_8176_19:00,3358,Kaia Padel Reserve,8176,Court A (Green),2026-09-06,19:00 - 20:00,150000,Available
 3358_8176_20:00,3358,Kaia Padel Reserve,8176,Court A (Green),2026-09-06,20:00 - 21:00,150000,Available
-3358_8176_21:00,3358,Kaia Padel Reserve,8176,Court A (Green),2026-09-06,21:00 - 22:00,150000,Available
+3358_8176_21:00,3358,Kaia Padel Reserve,8176,Court A (Green),2026-09-06,21:00 - 22:00,150000,Booked
 3358_8176_22:00,3358,Kaia Padel Reserve,8176,Court A (Green),2026-09-06,22:00 - 23:00,150000,Available
 3358_8176_23:00,3358,Kaia Padel Reserve,8176,Court A (Green),2026-09-06,23:00 - 00:00,150000,Available
 3358_8193_08:00,3358,Kaia Padel Reserve,8193,Court B (Terracotta),2026-09-06,08:00 - 09:00,150000,Available
@@ -5099,8 +5099,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3387_8243_18:00,3387,Tangkas Padel,8243,Court 1,2026-09-06,18:00 - 19:00,125000,Available
 3387_8243_19:00,3387,Tangkas Padel,8243,Court 1,2026-09-06,19:00 - 20:00,125000,Available
 3387_8243_20:00,3387,Tangkas Padel,8243,Court 1,2026-09-06,20:00 - 21:00,125000,Available
-3387_8243_21:00,3387,Tangkas Padel,8243,Court 1,2026-09-06,21:00 - 22:00,125000,Available
-3387_8243_22:00,3387,Tangkas Padel,8243,Court 1,2026-09-06,22:00 - 23:00,125000,Available
+3387_8243_21:00,3387,Tangkas Padel,8243,Court 1,2026-09-06,21:00 - 22:00,125000,Booked
+3387_8243_22:00,3387,Tangkas Padel,8243,Court 1,2026-09-06,22:00 - 23:00,125000,Booked
 3387_8243_23:00,3387,Tangkas Padel,8243,Court 1,2026-09-06,23:00 - 00:00,125000,Available
 3387_8244_08:00,3387,Tangkas Padel,8244,Court 2,2026-09-06,08:00 - 09:00,125000,Available
 3387_8244_09:00,3387,Tangkas Padel,8244,Court 2,2026-09-06,09:00 - 10:00,125000,Available
@@ -5132,7 +5132,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3387_8245_19:00,3387,Tangkas Padel,8245,Court 3,2026-09-06,19:00 - 20:00,125000,Available
 3387_8245_20:00,3387,Tangkas Padel,8245,Court 3,2026-09-06,20:00 - 21:00,125000,Booked
 3387_8245_21:00,3387,Tangkas Padel,8245,Court 3,2026-09-06,21:00 - 22:00,125000,Booked
-3387_8245_22:00,3387,Tangkas Padel,8245,Court 3,2026-09-06,22:00 - 23:00,125000,Available
+3387_8245_22:00,3387,Tangkas Padel,8245,Court 3,2026-09-06,22:00 - 23:00,125000,Booked
 3387_8245_23:00,3387,Tangkas Padel,8245,Court 3,2026-09-06,23:00 - 00:00,125000,Available
 3416_8364_08:00,3416,Cosmo Padel,8364,Court 1,2026-09-06,08:00 - 09:00,150000,Available
 3416_8364_09:00,3416,Cosmo Padel,8364,Court 1,2026-09-06,09:00 - 10:00,150000,Available
@@ -5704,7 +5704,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3880_9490_18:00,3880,Gru Padel House,9490,Padel Court,2026-09-06,18:00 - 19:00,188000,Available
 3880_9490_19:00,3880,Gru Padel House,9490,Padel Court,2026-09-06,19:00 - 20:00,188000,Available
 3880_9490_20:00,3880,Gru Padel House,9490,Padel Court,2026-09-06,20:00 - 21:00,188000,Available
-3880_9490_21:00,3880,Gru Padel House,9490,Padel Court,2026-09-06,21:00 - 22:00,188000,Available
+3880_9490_21:00,3880,Gru Padel House,9490,Padel Court,2026-09-06,21:00 - 22:00,188000,Booked
 4044_10194_08:00,4044,De Luz Padel,10194,Court 1,2026-09-06,08:00 - 09:00,125000,Available
 4044_10194_09:00,4044,De Luz Padel,10194,Court 1,2026-09-06,09:00 - 10:00,125000,Available
 4044_10194_10:00,4044,De Luz Padel,10194,Court 1,2026-09-06,10:00 - 11:00,125000,Available
@@ -5732,7 +5732,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 4044_10199_18:00,4044,De Luz Padel,10199,VIP Court,2026-09-06,18:00 - 19:00,180000,Available
 4044_10199_19:00,4044,De Luz Padel,10199,VIP Court,2026-09-06,19:00 - 20:00,180000,Available
 4044_10199_20:00,4044,De Luz Padel,10199,VIP Court,2026-09-06,20:00 - 21:00,180000,Available
-4044_10199_21:00,4044,De Luz Padel,10199,VIP Court,2026-09-06,21:00 - 22:00,180000,Available
+4044_10199_21:00,4044,De Luz Padel,10199,VIP Court,2026-09-06,21:00 - 22:00,180000,Booked
 4044_10200_08:00,4044,De Luz Padel,10200,Pickleball,2026-09-06,08:00 - 09:00,80000,Available
 4044_10200_09:00,4044,De Luz Padel,10200,Pickleball,2026-09-06,09:00 - 10:00,80000,Available
 4044_10200_10:00,4044,De Luz Padel,10200,Pickleball,2026-09-06,10:00 - 11:00,80000,Available
@@ -6005,7 +6005,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 4411_11619_18:00,4411,Deuce Arena,11619,Singles Court 1,2026-09-06,18:00 - 19:00,200000,Booked
 4411_11619_19:00,4411,Deuce Arena,11619,Singles Court 1,2026-09-06,19:00 - 20:00,200000,Booked
 4411_11619_20:00,4411,Deuce Arena,11619,Singles Court 1,2026-09-06,20:00 - 21:00,200000,Available
-4411_11619_21:00,4411,Deuce Arena,11619,Singles Court 1,2026-09-06,21:00 - 22:00,200000,Available
+4411_11619_21:00,4411,Deuce Arena,11619,Singles Court 1,2026-09-06,21:00 - 22:00,200000,Booked
 4411_11619_22:00,4411,Deuce Arena,11619,Singles Court 1,2026-09-06,22:00 - 23:00,200000,Available
 4411_11620_08:00,4411,Deuce Arena,11620,Singles Court 2,2026-09-06,08:00 - 09:00,200000,Booked
 4411_11620_09:00,4411,Deuce Arena,11620,Singles Court 2,2026-09-06,09:00 - 10:00,200000,Booked
