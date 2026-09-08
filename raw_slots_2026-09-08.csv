@@ -466,8 +466,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1262_2481_19:00,1262,EZ Padel Tomang,2481,Court D,2026-09-08,19:00 - 20:00,348999,Booked
 1262_2481_20:00,1262,EZ Padel Tomang,2481,Court D,2026-09-08,20:00 - 21:00,348999,Booked
 1262_2481_21:00,1262,EZ Padel Tomang,2481,Court D,2026-09-08,21:00 - 22:00,348999,Booked
-1262_2481_22:00,1262,EZ Padel Tomang,2481,Court D,2026-09-08,22:00 - 23:00,148000,Available
-1262_2481_23:00,1262,EZ Padel Tomang,2481,Court D,2026-09-08,23:00 - 00:00,148000,Available
+1262_2481_22:00,1262,EZ Padel Tomang,2481,Court D,2026-09-08,22:00 - 23:00,148000,Booked
+1262_2481_23:00,1262,EZ Padel Tomang,2481,Court D,2026-09-08,23:00 - 00:00,148000,Booked
 1268_2393_08:00,1268,Max Padel,2393,Court 1,2026-09-08,08:00 - 09:00,125000,Available
 1268_2393_09:00,1268,Max Padel,2393,Court 1,2026-09-08,09:00 - 10:00,125000,Available
 1268_2393_10:00,1268,Max Padel,2393,Court 1,2026-09-08,10:00 - 11:00,125000,Available
@@ -771,7 +771,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1368_2595_19:00,1368,Vlocity Arena,2595,Badminton 1,2026-09-08,19:00 - 20:00,128000,Booked
 1368_2595_20:00,1368,Vlocity Arena,2595,Badminton 1,2026-09-08,20:00 - 21:00,128000,Booked
 1368_2595_21:00,1368,Vlocity Arena,2595,Badminton 1,2026-09-08,21:00 - 22:00,128000,Booked
-1368_2595_22:00,1368,Vlocity Arena,2595,Badminton 1,2026-09-08,22:00 - 23:00,78000,Available
+1368_2595_22:00,1368,Vlocity Arena,2595,Badminton 1,2026-09-08,22:00 - 23:00,78000,Booked
 1368_2595_23:00,1368,Vlocity Arena,2595,Badminton 1,2026-09-08,23:00 - 00:00,78000,Available
 1368_2596_08:00,1368,Vlocity Arena,2596,Padel Grandstand,2026-09-08,08:00 - 09:00,137500,Booked
 1368_2596_09:00,1368,Vlocity Arena,2596,Padel Grandstand,2026-09-08,09:00 - 10:00,137500,Available
@@ -1084,8 +1084,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1542_6003_19:00,1542,Stone Padel - Citra Garden City,6003,Court 1,2026-09-08,19:00 - 20:00,200000,Booked
 1542_6003_20:00,1542,Stone Padel - Citra Garden City,6003,Court 1,2026-09-08,20:00 - 21:00,200000,Booked
 1542_6003_21:00,1542,Stone Padel - Citra Garden City,6003,Court 1,2026-09-08,21:00 - 22:00,200000,Booked
-1542_6003_22:00,1542,Stone Padel - Citra Garden City,6003,Court 1,2026-09-08,22:00 - 23:00,100000,Available
-1542_6003_23:00,1542,Stone Padel - Citra Garden City,6003,Court 1,2026-09-08,23:00 - 00:00,100000,Available
+1542_6003_22:00,1542,Stone Padel - Citra Garden City,6003,Court 1,2026-09-08,22:00 - 23:00,100000,Booked
+1542_6003_23:00,1542,Stone Padel - Citra Garden City,6003,Court 1,2026-09-08,23:00 - 00:00,100000,Booked
 1542_6004_08:00,1542,Stone Padel - Citra Garden City,6004,Court 2,2026-09-08,08:00 - 09:00,100000,Available
 1542_6004_09:00,1542,Stone Padel - Citra Garden City,6004,Court 2,2026-09-08,09:00 - 10:00,100000,Available
 1542_6004_10:00,1542,Stone Padel - Citra Garden City,6004,Court 2,2026-09-08,10:00 - 11:00,100000,Available
@@ -1100,8 +1100,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1542_6004_19:00,1542,Stone Padel - Citra Garden City,6004,Court 2,2026-09-08,19:00 - 20:00,200000,Available
 1542_6004_20:00,1542,Stone Padel - Citra Garden City,6004,Court 2,2026-09-08,20:00 - 21:00,200000,Booked
 1542_6004_21:00,1542,Stone Padel - Citra Garden City,6004,Court 2,2026-09-08,21:00 - 22:00,200000,Booked
-1542_6004_22:00,1542,Stone Padel - Citra Garden City,6004,Court 2,2026-09-08,22:00 - 23:00,100000,Available
-1542_6004_23:00,1542,Stone Padel - Citra Garden City,6004,Court 2,2026-09-08,23:00 - 00:00,100000,Available
+1542_6004_22:00,1542,Stone Padel - Citra Garden City,6004,Court 2,2026-09-08,22:00 - 23:00,100000,Booked
+1542_6004_23:00,1542,Stone Padel - Citra Garden City,6004,Court 2,2026-09-08,23:00 - 00:00,100000,Booked
 1542_6005_08:00,1542,Stone Padel - Citra Garden City,6005,Court 3,2026-09-08,08:00 - 09:00,100000,Available
 1542_6005_09:00,1542,Stone Padel - Citra Garden City,6005,Court 3,2026-09-08,09:00 - 10:00,100000,Available
 1542_6005_10:00,1542,Stone Padel - Citra Garden City,6005,Court 3,2026-09-08,10:00 - 11:00,100000,Available
@@ -1116,7 +1116,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1542_6005_19:00,1542,Stone Padel - Citra Garden City,6005,Court 3,2026-09-08,19:00 - 20:00,200000,Available
 1542_6005_20:00,1542,Stone Padel - Citra Garden City,6005,Court 3,2026-09-08,20:00 - 21:00,200000,Booked
 1542_6005_21:00,1542,Stone Padel - Citra Garden City,6005,Court 3,2026-09-08,21:00 - 22:00,200000,Booked
-1542_6005_22:00,1542,Stone Padel - Citra Garden City,6005,Court 3,2026-09-08,22:00 - 23:00,100000,Available
+1542_6005_22:00,1542,Stone Padel - Citra Garden City,6005,Court 3,2026-09-08,22:00 - 23:00,100000,Booked
 1542_6005_23:00,1542,Stone Padel - Citra Garden City,6005,Court 3,2026-09-08,23:00 - 00:00,100000,Available
 1563_3171_09:00,1563,Daily Court,3171,Tennis Outdoor Court,2026-09-08,09:00 - 10:00,180000,Available
 1563_3171_10:00,1563,Daily Court,3171,Tennis Outdoor Court,2026-09-08,10:00 - 11:00,180000,Available
@@ -1680,7 +1680,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1679_6873_19:00,1679,IPC Padel Club Kedoya,6873,5 Terracotta,2026-09-08,19:00 - 20:00,200000,Booked
 1679_6873_20:00,1679,IPC Padel Club Kedoya,6873,5 Terracotta,2026-09-08,20:00 - 21:00,200000,Booked
 1679_6873_21:00,1679,IPC Padel Club Kedoya,6873,5 Terracotta,2026-09-08,21:00 - 22:00,200000,Available
-1679_6873_22:00,1679,IPC Padel Club Kedoya,6873,5 Terracotta,2026-09-08,22:00 - 23:00,150000,Available
+1679_6873_22:00,1679,IPC Padel Club Kedoya,6873,5 Terracotta,2026-09-08,22:00 - 23:00,150000,Booked
 1679_6873_23:00,1679,IPC Padel Club Kedoya,6873,5 Terracotta,2026-09-08,23:00 - 00:00,150000,Available
 1679_6874_08:00,1679,IPC Padel Club Kedoya,6874,6 Terracotta,2026-09-08,08:00 - 09:00,150000,Available
 1679_6874_09:00,1679,IPC Padel Club Kedoya,6874,6 Terracotta,2026-09-08,09:00 - 10:00,150000,Booked
@@ -1928,8 +1928,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 1922_4272_19:00,1922,Kobana Padel,4272,Court 2,2026-09-08,19:00 - 20:00,240000,Available
 1922_4272_20:00,1922,Kobana Padel,4272,Court 2,2026-09-08,20:00 - 21:00,240000,Booked
 1922_4272_21:00,1922,Kobana Padel,4272,Court 2,2026-09-08,21:00 - 22:00,240000,Available
-1922_4272_22:00,1922,Kobana Padel,4272,Court 2,2026-09-08,22:00 - 23:00,240000,Available
-1922_4272_23:00,1922,Kobana Padel,4272,Court 2,2026-09-08,23:00 - 00:00,240000,Available
+1922_4272_22:00,1922,Kobana Padel,4272,Court 2,2026-09-08,22:00 - 23:00,240000,Booked
+1922_4272_23:00,1922,Kobana Padel,4272,Court 2,2026-09-08,23:00 - 00:00,240000,Booked
 1922_4273_08:00,1922,Kobana Padel,4273,Court 3,2026-09-08,08:00 - 09:00,200000,Available
 1922_4273_09:00,1922,Kobana Padel,4273,Court 3,2026-09-08,09:00 - 10:00,200000,Available
 1922_4273_10:00,1922,Kobana Padel,4273,Court 3,2026-09-08,10:00 - 11:00,200000,Available
@@ -2730,8 +2730,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2334_8120_19:00,2334,Playfieldcourt - Palmerah,8120,Maincourt - Basket,2026-09-08,19:00 - 20:00,495000,Available
 2334_8120_20:00,2334,Playfieldcourt - Palmerah,8120,Maincourt - Basket,2026-09-08,20:00 - 21:00,495000,Booked
 2334_8120_21:00,2334,Playfieldcourt - Palmerah,8120,Maincourt - Basket,2026-09-08,21:00 - 22:00,495000,Booked
-2334_8120_22:00,2334,Playfieldcourt - Palmerah,8120,Maincourt - Basket,2026-09-08,22:00 - 23:00,275000,Available
-2334_8120_23:00,2334,Playfieldcourt - Palmerah,8120,Maincourt - Basket,2026-09-08,23:00 - 00:00,275000,Available
+2334_8120_22:00,2334,Playfieldcourt - Palmerah,8120,Maincourt - Basket,2026-09-08,22:00 - 23:00,275000,Booked
+2334_8120_23:00,2334,Playfieldcourt - Palmerah,8120,Maincourt - Basket,2026-09-08,23:00 - 00:00,275000,Booked
 2334_8121_08:00,2334,Playfieldcourt - Palmerah,8121,Sidecourt - Basket,2026-09-08,08:00 - 09:00,275000,Available
 2334_8121_09:00,2334,Playfieldcourt - Palmerah,8121,Sidecourt - Basket,2026-09-08,09:00 - 10:00,275000,Available
 2334_8121_10:00,2334,Playfieldcourt - Palmerah,8121,Sidecourt - Basket,2026-09-08,10:00 - 11:00,275000,Available
@@ -2762,8 +2762,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2334_8122_19:00,2334,Playfieldcourt - Palmerah,8122,Padel Court,2026-09-08,19:00 - 20:00,135000,Available
 2334_8122_20:00,2334,Playfieldcourt - Palmerah,8122,Padel Court,2026-09-08,20:00 - 21:00,135000,Available
 2334_8122_21:00,2334,Playfieldcourt - Palmerah,8122,Padel Court,2026-09-08,21:00 - 22:00,135000,Available
-2334_8122_22:00,2334,Playfieldcourt - Palmerah,8122,Padel Court,2026-09-08,22:00 - 23:00,110000,Available
-2334_8122_23:00,2334,Playfieldcourt - Palmerah,8122,Padel Court,2026-09-08,23:00 - 00:00,110000,Available
+2334_8122_22:00,2334,Playfieldcourt - Palmerah,8122,Padel Court,2026-09-08,22:00 - 23:00,110000,Booked
+2334_8122_23:00,2334,Playfieldcourt - Palmerah,8122,Padel Court,2026-09-08,23:00 - 00:00,110000,Booked
 2334_8123_08:00,2334,Playfieldcourt - Palmerah,8123,Maincourt - Volley,2026-09-08,08:00 - 09:00,385000,Available
 2334_8123_09:00,2334,Playfieldcourt - Palmerah,8123,Maincourt - Volley,2026-09-08,09:00 - 10:00,385000,Available
 2334_8123_10:00,2334,Playfieldcourt - Palmerah,8123,Maincourt - Volley,2026-09-08,10:00 - 11:00,385000,Available
@@ -2778,8 +2778,8 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2334_8123_19:00,2334,Playfieldcourt - Palmerah,8123,Maincourt - Volley,2026-09-08,19:00 - 20:00,495000,Available
 2334_8123_20:00,2334,Playfieldcourt - Palmerah,8123,Maincourt - Volley,2026-09-08,20:00 - 21:00,495000,Booked
 2334_8123_21:00,2334,Playfieldcourt - Palmerah,8123,Maincourt - Volley,2026-09-08,21:00 - 22:00,495000,Booked
-2334_8123_22:00,2334,Playfieldcourt - Palmerah,8123,Maincourt - Volley,2026-09-08,22:00 - 23:00,275000,Available
-2334_8123_23:00,2334,Playfieldcourt - Palmerah,8123,Maincourt - Volley,2026-09-08,23:00 - 00:00,275000,Available
+2334_8123_22:00,2334,Playfieldcourt - Palmerah,8123,Maincourt - Volley,2026-09-08,22:00 - 23:00,275000,Booked
+2334_8123_23:00,2334,Playfieldcourt - Palmerah,8123,Maincourt - Volley,2026-09-08,23:00 - 00:00,275000,Booked
 2353_4974_08:00,2353,The Level 9 Padel,4974,V I P -  Wimbledon,2026-09-08,08:00 - 09:00,125000,Available
 2353_4974_09:00,2353,The Level 9 Padel,4974,V I P -  Wimbledon,2026-09-08,09:00 - 10:00,125000,Available
 2353_4974_10:00,2353,The Level 9 Padel,4974,V I P -  Wimbledon,2026-09-08,10:00 - 11:00,125000,Available
@@ -3634,7 +3634,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 2792_6416_19:00,2792,Donkey Padel,6416,Court 1,2026-09-08,19:00 - 20:00,149000,Available
 2792_6416_20:00,2792,Donkey Padel,6416,Court 1,2026-09-08,20:00 - 21:00,149000,Available
 2792_6416_21:00,2792,Donkey Padel,6416,Court 1,2026-09-08,21:00 - 22:00,149000,Available
-2792_6416_22:00,2792,Donkey Padel,6416,Court 1,2026-09-08,22:00 - 23:00,99000,Available
+2792_6416_22:00,2792,Donkey Padel,6416,Court 1,2026-09-08,22:00 - 23:00,99000,Booked
 2792_6416_23:00,2792,Donkey Padel,6416,Court 1,2026-09-08,23:00 - 00:00,99000,Available
 2792_6439_08:00,2792,Donkey Padel,6439,Court 2,2026-09-08,08:00 - 09:00,99000,Available
 2792_6439_09:00,2792,Donkey Padel,6439,Court 2,2026-09-08,09:00 - 10:00,99000,Available
@@ -4262,7 +4262,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3139_7380_19:00,3139,PIPC - Play In Padel Collective - Srengseng,7380,Court 2,2026-09-08,19:00 - 20:00,250000,Available
 3139_7380_20:00,3139,PIPC - Play In Padel Collective - Srengseng,7380,Court 2,2026-09-08,20:00 - 21:00,250000,Available
 3139_7380_21:00,3139,PIPC - Play In Padel Collective - Srengseng,7380,Court 2,2026-09-08,21:00 - 22:00,250000,Available
-3139_7380_22:00,3139,PIPC - Play In Padel Collective - Srengseng,7380,Court 2,2026-09-08,22:00 - 23:00,100000,Available
+3139_7380_22:00,3139,PIPC - Play In Padel Collective - Srengseng,7380,Court 2,2026-09-08,22:00 - 23:00,100000,Booked
 3139_7380_23:00,3139,PIPC - Play In Padel Collective - Srengseng,7380,Court 2,2026-09-08,23:00 - 00:00,100000,Available
 3139_7381_08:00,3139,PIPC - Play In Padel Collective - Srengseng,7381,Court 3,2026-09-08,08:00 - 09:00,150000,Booked
 3139_7381_09:00,3139,PIPC - Play In Padel Collective - Srengseng,7381,Court 3,2026-09-08,09:00 - 10:00,150000,Booked
@@ -4824,7 +4824,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 3308_8333_19:00,3308,Angke Padel,8333,Court B,2026-09-08,19:00 - 20:00,150000,Available
 3308_8333_20:00,3308,Angke Padel,8333,Court B,2026-09-08,20:00 - 21:00,150000,Booked
 3308_8333_21:00,3308,Angke Padel,8333,Court B,2026-09-08,21:00 - 22:00,150000,Booked
-3308_8333_22:00,3308,Angke Padel,8333,Court B,2026-09-08,22:00 - 23:00,100000,Available
+3308_8333_22:00,3308,Angke Padel,8333,Court B,2026-09-08,22:00 - 23:00,100000,Booked
 3308_8333_23:00,3308,Angke Padel,8333,Court B,2026-09-08,23:00 - 00:00,100000,Available
 3308_8334_08:00,3308,Angke Padel,8334,Court C,2026-09-08,08:00 - 09:00,75000,Available
 3308_8334_09:00,3308,Angke Padel,8334,Court C,2026-09-08,09:00 - 10:00,75000,Available
@@ -6045,7 +6045,7 @@ slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
 4411_11619_19:00,4411,Deuce Arena,11619,Singles Court 1,2026-09-08,19:00 - 20:00,200000,Booked
 4411_11619_20:00,4411,Deuce Arena,11619,Singles Court 1,2026-09-08,20:00 - 21:00,200000,Booked
 4411_11619_21:00,4411,Deuce Arena,11619,Singles Court 1,2026-09-08,21:00 - 22:00,200000,Available
-4411_11619_22:00,4411,Deuce Arena,11619,Singles Court 1,2026-09-08,22:00 - 23:00,200000,Available
+4411_11619_22:00,4411,Deuce Arena,11619,Singles Court 1,2026-09-08,22:00 - 23:00,200000,Booked
 4411_11620_08:00,4411,Deuce Arena,11620,Singles Court 2,2026-09-08,08:00 - 09:00,150000,Booked
 4411_11620_09:00,4411,Deuce Arena,11620,Singles Court 2,2026-09-08,09:00 - 10:00,150000,Booked
 4411_11620_10:00,4411,Deuce Arena,11620,Singles Court 2,2026-09-08,10:00 - 11:00,150000,Available
