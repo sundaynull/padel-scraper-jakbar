@@ -144,9 +144,8 @@ if __name__ == "__main__":
     if os.path.exists(raw_file):
         df_master = pd.read_csv(raw_file)
         combined = pd.concat([df_master, df_current], ignore_index=True)
-        combined["status_rank"] = combined["status"].map({"Booked": 2, "Available": 1})
-        combined = combined.sort_values(by=["slot_key", "status_rank"], ascending=[True, True])
-        df_final_slots = combined.drop_duplicates(subset=["slot_key"], keep="last").drop(columns=["status_rank"])
+        # Menghapus duplikat slot_key dan mempertahankan tarikan data paling baru (keep="last")
+        df_final_slots = combined.drop_duplicates(subset=["slot_key"], keep="last")
     else:
         df_final_slots = df_current
 
