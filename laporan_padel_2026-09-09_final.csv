@@ -7,14 +7,14 @@ No,Venue,Slots,Available,Occupancy %,Revenue,Range Harga
 6,Orange Garden Padel Club,56,53,5.4%,Rp564.000,Rp88.000 - Rp188.000
 7,Westside Padel,56,20,64.3%,Rp8.540.000,Rp195.000 - Rp275.000
 8,Padel One Club,60,33,45.0%,Rp4.433.000,Rp99.000 - Rp275.000
-9,EZ Padel Tomang,64,45,29.7%,Rp5.625.986,Rp148.000 - Rp348.999
+9,EZ Padel Tomang,64,44,31.2%,Rp5.773.986,Rp148.000 - Rp348.999
 10,Max Padel,112,93,17.0%,Rp4.975.000,Rp125.000 - Rp300.000
 11,The Citadel,84,55,34.5%,Rp5.775.000,Rp99.000 - Rp330.000
 12,Padel at largo - Kedoya,45,38,15.6%,Rp1.350.000,Rp150.000 - Rp250.000
-13,Vlocity Arena,160,123,23.1%,Rp8.664.500,Rp78.000 - Rp330.000
+13,Vlocity Arena,160,122,23.8%,Rp8.994.500,Rp78.000 - Rp330.000
 14,Boss Padel - Kedoya,80,68,15.0%,Rp3.450.000,Rp100.000 - Rp350.000
 15,Juego Padel Club (JPC),105,84,20.0%,Rp5.404.000,Rp160.000 - Rp350.000
-16,Stone Padel - Citra Garden City,64,46,28.1%,Rp3.000.000,Rp100.000 - Rp200.000
+16,Stone Padel - Citra Garden City,64,45,29.7%,Rp3.100.000,Rp100.000 - Rp200.000
 17,Daily Court,90,64,28.9%,Rp4.275.000,Rp100.000 - Rp210.000
 18,River Padel,42,31,26.2%,Rp2.133.000,Rp150.000 - Rp219.000
 19,KSC Racquet Club,120,61,49.2%,Rp16.630.000,Rp100.000 - Rp305.000
@@ -24,14 +24,14 @@ No,Venue,Slots,Available,Occupancy %,Revenue,Range Harga
 23,Badel Padel,64,43,32.8%,Rp5.345.000,Rp125.000 - Rp295.000
 24,Base Padel,45,38,15.6%,Rp1.500.000,Rp150.000 - Rp225.000
 25,Patra Padel House,13,9,30.8%,Rp725.000,Rp125.000 - Rp200.000
-26,Terra Padel Court,32,22,31.2%,Rp1.290.000,Rp99.000 - Rp199.000
+26,Terra Padel Court,32,21,34.4%,Rp1.389.000,Rp99.000 - Rp199.000
 27,Tinny Padel,14,5,64.3%,Rp1.314.000,Rp125.000 - Rp188.000
 28,Kobana Padel,48,38,20.8%,Rp2.400.000,Rp200.000 - Rp240.000
 29,Padelgrounds,60,36,40.0%,Rp3.184.000,Rp99.000 - Rp200.000
 30,Glass House Padel,42,31,26.2%,Rp2.195.000,Rp90.000 - Rp288.000
 31,Sini Padel Court,75,60,20.0%,Rp2.253.000,Rp98.000 - Rp200.000
 32,Xcite Padel,60,42,30.0%,Rp3.720.000,Rp160.000 - Rp230.000
-33,Hobi Padel Meruya,64,43,32.8%,Rp2.628.000,Rp98.000 - Rp148.000
+33,Hobi Padel Meruya,64,42,34.4%,Rp2.726.000,Rp98.000 - Rp148.000
 34,The Padel Point,60,48,20.0%,Rp3.000.000,Rp150.000 - Rp250.000
 35,RacketGo Citra 5,64,36,43.8%,Rp4.280.000,Rp125.000 - Rp190.000
 36,La Chiquita Padel,28,20,28.6%,Rp2.400.000,Rp200.000 - Rp300.000
@@ -43,7 +43,7 @@ No,Venue,Slots,Available,Occupancy %,Revenue,Range Harga
 42,The Level 9 Padel,176,163,7.4%,Rp1.950.000,Rp125.000 - Rp150.000
 43,Como Padel Court,56,37,33.9%,Rp3.235.000,Rp99.000 - Rp200.000
 44,World Padel,42,33,21.4%,Rp1.175.000,Rp50.000 - Rp225.000
-45,Padelin,48,27,43.8%,Rp3.120.000,Rp70.000 - Rp200.000
+45,Padelin,48,26,45.8%,Rp3.220.000,Rp70.000 - Rp200.000
 46,Courtyard Padel Club,94,66,29.8%,Rp8.290.000,Rp165.000 - Rp590.000
 47,Padel On Mars,26,21,19.2%,Rp655.000,Rp115.000 - Rp135.000
 48,Padel Meruya Airdome,90,73,18.9%,Rp6.483.000,Rp349.000 - Rp399.000
@@ -58,33 +58,33 @@ No,Venue,Slots,Available,Occupancy %,Revenue,Range Harga
 57,Donkey Padel,32,27,15.6%,Rp745.000,Rp99.000 - Rp149.000
 58,Sunrise Padel - Sunrise Garden,56,43,23.2%,Rp2.389.000,Rp100.000 - Rp199.000
 59,Ace Padel Club (APC) - Jalan Panjang Kedoya,78,43,44.9%,Rp8.220.000,Rp100.000 - Rp300.000
-60,Padel Quarter,60,44,26.7%,Rp2.370.000,Rp80.000 - Rp380.000
+60,Padel Quarter,60,40,33.3%,Rp2.710.000,Rp80.000 - Rp380.000
 61,ZEN PADEL,28,24,14.3%,Rp316.000,Rp59.000 - Rp99.000
 62,Go 2 Padel,30,25,16.7%,Rp660.000,Rp60.000 - Rp150.000
 63,YOLO Padel and Lifestyle Slipi,24,16,33.3%,Rp3.000.000,Rp200.000 - Rp375.000
-64,"KALMA Social Club - Jl. Panjang, Kedoya",80,56,30.0%,Rp7.347.000,Rp150.000 - Rp399.000
+64,"KALMA Social Club - Jl. Panjang, Kedoya",80,55,31.2%,Rp7.546.000,Rp150.000 - Rp399.000
 65,Padel V,30,26,13.3%,Rp1.040.000,Rp160.000 - Rp260.000
 66,Country Club | Padel & Lounge,30,24,20.0%,Rp1.400.000,Rp200.000 - Rp250.000
 67,Social Field,112,83,25.9%,Rp4.745.000,Rp98.000 - Rp198.000
 68,PIPC - Play In Padel Collective - Srengseng,96,59,38.5%,Rp3.663.000,Rp99.000 - Rp100.000
 69,KOTA COURTS by PADELGRID Mangga Besar,48,30,37.5%,Rp3.585.000,Rp150.000 - Rp285.000
 70,United Padel Club,60,51,15.0%,Rp1.500.000,Rp120.000 - Rp180.000
-71,Powerhouse Padel AZURE Taman Surya,64,57,10.9%,Rp1.190.000,Rp75.000 - Rp170.000
+71,Powerhouse Padel AZURE Taman Surya,64,54,15.6%,Rp1.415.000,Rp75.000 - Rp170.000
 72,OLA PADEL CLUB,84,62,26.2%,Rp4.185.000,Rp100.000 - Rp260.000
 73,MMT Padel,98,94,4.1%,Rp1.200.000,Rp230.000 - Rp350.000
 74,Clubhouse Meruya,112,102,8.9%,Rp2.450.000,Rp195.000 - Rp245.000
-75,Angke Padel,96,73,24.0%,Rp3.100.000,Rp75.000 - Rp150.000
+75,Angke Padel,96,74,22.9%,Rp3.000.000,Rp75.000 - Rp150.000
 76,DAAN MOGOT PADEL COURT,84,75,10.7%,Rp3.850.000,Rp125.000 - Rp500.000
 77,Kaia Padel Reserve,70,37,47.1%,Rp5.072.000,Rp99.000 - Rp200.000
 78,Tangkas Padel,48,40,16.7%,Rp1.850.000,Rp150.000 - Rp300.000
-79,Cosmo Padel,32,23,28.1%,Rp1.800.000,Rp128.000 - Rp275.000
+79,Cosmo Padel,32,21,34.4%,Rp2.056.000,Rp128.000 - Rp275.000
 80,MAISON de PADEL,14,11,21.4%,Rp1.350.000,Rp275.000 - Rp450.000
 81,Di Atas Social Club - Lippo Mall Puri,117,110,6.0%,Rp1.905.000,Rp195.000 - Rp280.000
 82,Commune Courts,90,66,26.7%,Rp4.600.000,Rp100.000 - Rp300.000
 83,EL WILLY PADEL,32,32,0.0%,Rp0,Rp250.000 - Rp380.000
 84,Dash Padel House,75,54,28.0%,Rp3.786.000,Rp100.000 - Rp249.000
 85,Citra Padel Club,112,82,26.8%,Rp5.575.000,Rp70.000 - Rp225.000
-86,Malta Padel Club,80,63,21.2%,Rp3.300.000,Rp150.000 - Rp200.000
+86,Malta Padel Club,80,61,23.8%,Rp3.700.000,Rp150.000 - Rp200.000
 87,Gru Padel House,14,8,42.9%,Rp1.308.000,Rp168.000 - Rp228.000
 88,De Luz Padel,98,61,37.8%,Rp5.080.000,Rp80.000 - Rp180.000
 89,Nice Padel,26,21,19.2%,Rp495.000,Rp99.000
