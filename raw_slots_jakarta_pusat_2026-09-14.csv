@@ -1,0 +1,992 @@
+slot_key,venue_id,venue_name,field_id,field_name,date,time_slot,price,status
+2978_6890_11:00,2978,The Space Padel,6890,The Court,2026-09-14,11:00 - 12:00,170000,Available
+2978_6890_12:00,2978,The Space Padel,6890,The Court,2026-09-14,12:00 - 13:00,170000,Available
+2978_6890_13:00,2978,The Space Padel,6890,The Court,2026-09-14,13:00 - 14:00,170000,Available
+2978_6890_14:00,2978,The Space Padel,6890,The Court,2026-09-14,14:00 - 15:00,170000,Available
+2978_6890_15:00,2978,The Space Padel,6890,The Court,2026-09-14,15:00 - 16:00,170000,Available
+2978_6890_16:00,2978,The Space Padel,6890,The Court,2026-09-14,16:00 - 17:00,230000,Available
+2978_6890_17:00,2978,The Space Padel,6890,The Court,2026-09-14,17:00 - 18:00,230000,Available
+2978_6890_18:00,2978,The Space Padel,6890,The Court,2026-09-14,18:00 - 19:00,230000,Booked
+2978_6890_19:00,2978,The Space Padel,6890,The Court,2026-09-14,19:00 - 20:00,230000,Booked
+2978_6890_20:00,2978,The Space Padel,6890,The Court,2026-09-14,20:00 - 21:00,230000,Available
+2978_6890_21:00,2978,The Space Padel,6890,The Court,2026-09-14,21:00 - 22:00,230000,Available
+2079_4306_11:00,2079,I On Padel Cempaka Putih,4306,Court 1,2026-09-14,11:00 - 12:00,100000,Booked
+2079_4306_12:00,2079,I On Padel Cempaka Putih,4306,Court 1,2026-09-14,12:00 - 13:00,100000,Booked
+2079_4306_13:00,2079,I On Padel Cempaka Putih,4306,Court 1,2026-09-14,13:00 - 14:00,100000,Booked
+2079_4306_14:00,2079,I On Padel Cempaka Putih,4306,Court 1,2026-09-14,14:00 - 15:00,100000,Booked
+2079_4306_15:00,2079,I On Padel Cempaka Putih,4306,Court 1,2026-09-14,15:00 - 16:00,100000,Booked
+2079_4306_16:00,2079,I On Padel Cempaka Putih,4306,Court 1,2026-09-14,16:00 - 17:00,100000,Booked
+2079_4306_17:00,2079,I On Padel Cempaka Putih,4306,Court 1,2026-09-14,17:00 - 18:00,250000,Available
+2079_4306_18:00,2079,I On Padel Cempaka Putih,4306,Court 1,2026-09-14,18:00 - 19:00,250000,Available
+2079_4306_19:00,2079,I On Padel Cempaka Putih,4306,Court 1,2026-09-14,19:00 - 20:00,250000,Available
+2079_4306_20:00,2079,I On Padel Cempaka Putih,4306,Court 1,2026-09-14,20:00 - 21:00,250000,Available
+2079_4306_21:00,2079,I On Padel Cempaka Putih,4306,Court 1,2026-09-14,21:00 - 22:00,250000,Available
+2079_4306_22:00,2079,I On Padel Cempaka Putih,4306,Court 1,2026-09-14,22:00 - 23:00,100000,Booked
+2079_4306_23:00,2079,I On Padel Cempaka Putih,4306,Court 1,2026-09-14,23:00 - 00:00,100000,Booked
+2079_5740_11:00,2079,I On Padel Cempaka Putih,5740,Court 2,2026-09-14,11:00 - 12:00,100000,Booked
+2079_5740_12:00,2079,I On Padel Cempaka Putih,5740,Court 2,2026-09-14,12:00 - 13:00,100000,Booked
+2079_5740_13:00,2079,I On Padel Cempaka Putih,5740,Court 2,2026-09-14,13:00 - 14:00,100000,Booked
+2079_5740_14:00,2079,I On Padel Cempaka Putih,5740,Court 2,2026-09-14,14:00 - 15:00,100000,Booked
+2079_5740_15:00,2079,I On Padel Cempaka Putih,5740,Court 2,2026-09-14,15:00 - 16:00,100000,Booked
+2079_5740_16:00,2079,I On Padel Cempaka Putih,5740,Court 2,2026-09-14,16:00 - 17:00,100000,Booked
+2079_5740_17:00,2079,I On Padel Cempaka Putih,5740,Court 2,2026-09-14,17:00 - 18:00,250000,Available
+2079_5740_18:00,2079,I On Padel Cempaka Putih,5740,Court 2,2026-09-14,18:00 - 19:00,250000,Available
+2079_5740_19:00,2079,I On Padel Cempaka Putih,5740,Court 2,2026-09-14,19:00 - 20:00,250000,Available
+2079_5740_20:00,2079,I On Padel Cempaka Putih,5740,Court 2,2026-09-14,20:00 - 21:00,250000,Available
+2079_5740_21:00,2079,I On Padel Cempaka Putih,5740,Court 2,2026-09-14,21:00 - 22:00,250000,Available
+2079_5740_22:00,2079,I On Padel Cempaka Putih,5740,Court 2,2026-09-14,22:00 - 23:00,100000,Booked
+2079_5740_23:00,2079,I On Padel Cempaka Putih,5740,Court 2,2026-09-14,23:00 - 00:00,100000,Available
+2079_5741_11:00,2079,I On Padel Cempaka Putih,5741,Court 3,2026-09-14,11:00 - 12:00,100000,Booked
+2079_5741_12:00,2079,I On Padel Cempaka Putih,5741,Court 3,2026-09-14,12:00 - 13:00,100000,Booked
+2079_5741_13:00,2079,I On Padel Cempaka Putih,5741,Court 3,2026-09-14,13:00 - 14:00,100000,Booked
+2079_5741_14:00,2079,I On Padel Cempaka Putih,5741,Court 3,2026-09-14,14:00 - 15:00,100000,Booked
+2079_5741_15:00,2079,I On Padel Cempaka Putih,5741,Court 3,2026-09-14,15:00 - 16:00,100000,Booked
+2079_5741_16:00,2079,I On Padel Cempaka Putih,5741,Court 3,2026-09-14,16:00 - 17:00,100000,Booked
+2079_5741_17:00,2079,I On Padel Cempaka Putih,5741,Court 3,2026-09-14,17:00 - 18:00,250000,Available
+2079_5741_18:00,2079,I On Padel Cempaka Putih,5741,Court 3,2026-09-14,18:00 - 19:00,250000,Available
+2079_5741_19:00,2079,I On Padel Cempaka Putih,5741,Court 3,2026-09-14,19:00 - 20:00,250000,Available
+2079_5741_20:00,2079,I On Padel Cempaka Putih,5741,Court 3,2026-09-14,20:00 - 21:00,250000,Available
+2079_5741_21:00,2079,I On Padel Cempaka Putih,5741,Court 3,2026-09-14,21:00 - 22:00,250000,Available
+2079_5741_22:00,2079,I On Padel Cempaka Putih,5741,Court 3,2026-09-14,22:00 - 23:00,100000,Available
+2079_5741_23:00,2079,I On Padel Cempaka Putih,5741,Court 3,2026-09-14,23:00 - 00:00,100000,Available
+1401_2699_11:00,1401,Ocean Padel,2699,Lapangan Padel 1,2026-09-14,11:00 - 12:00,100000,Available
+1401_2699_12:00,1401,Ocean Padel,2699,Lapangan Padel 1,2026-09-14,12:00 - 13:00,100000,Available
+1401_2699_13:00,1401,Ocean Padel,2699,Lapangan Padel 1,2026-09-14,13:00 - 14:00,100000,Available
+1401_2699_14:00,1401,Ocean Padel,2699,Lapangan Padel 1,2026-09-14,14:00 - 15:00,100000,Available
+1401_2699_15:00,1401,Ocean Padel,2699,Lapangan Padel 1,2026-09-14,15:00 - 16:00,100000,Available
+1401_2699_16:00,1401,Ocean Padel,2699,Lapangan Padel 1,2026-09-14,16:00 - 17:00,150000,Available
+1401_2699_17:00,1401,Ocean Padel,2699,Lapangan Padel 1,2026-09-14,17:00 - 18:00,150000,Available
+1401_2699_18:00,1401,Ocean Padel,2699,Lapangan Padel 1,2026-09-14,18:00 - 19:00,150000,Available
+1401_2699_19:00,1401,Ocean Padel,2699,Lapangan Padel 1,2026-09-14,19:00 - 20:00,150000,Available
+1401_2699_20:00,1401,Ocean Padel,2699,Lapangan Padel 1,2026-09-14,20:00 - 21:00,150000,Available
+1401_2699_21:00,1401,Ocean Padel,2699,Lapangan Padel 1,2026-09-14,21:00 - 22:00,150000,Available
+1401_2699_22:00,1401,Ocean Padel,2699,Lapangan Padel 1,2026-09-14,22:00 - 23:00,150000,Available
+1401_2699_23:00,1401,Ocean Padel,2699,Lapangan Padel 1,2026-09-14,23:00 - 00:00,150000,Available
+1670_3405_11:00,1670,Amalfi Court By VY,3405,Positano,2026-09-14,11:00 - 12:00,100000,Available
+1670_3405_12:00,1670,Amalfi Court By VY,3405,Positano,2026-09-14,12:00 - 13:00,100000,Available
+1670_3405_13:00,1670,Amalfi Court By VY,3405,Positano,2026-09-14,13:00 - 14:00,100000,Available
+1670_3405_14:00,1670,Amalfi Court By VY,3405,Positano,2026-09-14,14:00 - 15:00,125000,Available
+1670_3405_15:00,1670,Amalfi Court By VY,3405,Positano,2026-09-14,15:00 - 16:00,125000,Available
+1670_3405_16:00,1670,Amalfi Court By VY,3405,Positano,2026-09-14,16:00 - 17:00,125000,Available
+1670_3405_17:00,1670,Amalfi Court By VY,3405,Positano,2026-09-14,17:00 - 18:00,125000,Booked
+1670_3405_18:00,1670,Amalfi Court By VY,3405,Positano,2026-09-14,18:00 - 19:00,250000,Booked
+1670_3405_19:00,1670,Amalfi Court By VY,3405,Positano,2026-09-14,19:00 - 20:00,250000,Booked
+1670_3405_20:00,1670,Amalfi Court By VY,3405,Positano,2026-09-14,20:00 - 21:00,250000,Available
+1670_3405_21:00,1670,Amalfi Court By VY,3405,Positano,2026-09-14,21:00 - 22:00,125000,Available
+1670_3407_11:00,1670,Amalfi Court By VY,3407,Napoli,2026-09-14,11:00 - 12:00,100000,Available
+1670_3407_12:00,1670,Amalfi Court By VY,3407,Napoli,2026-09-14,12:00 - 13:00,100000,Available
+1670_3407_13:00,1670,Amalfi Court By VY,3407,Napoli,2026-09-14,13:00 - 14:00,100000,Available
+1670_3407_14:00,1670,Amalfi Court By VY,3407,Napoli,2026-09-14,14:00 - 15:00,125000,Available
+1670_3407_15:00,1670,Amalfi Court By VY,3407,Napoli,2026-09-14,15:00 - 16:00,125000,Available
+1670_3407_16:00,1670,Amalfi Court By VY,3407,Napoli,2026-09-14,16:00 - 17:00,125000,Available
+1670_3407_17:00,1670,Amalfi Court By VY,3407,Napoli,2026-09-14,17:00 - 18:00,125000,Available
+1670_3407_18:00,1670,Amalfi Court By VY,3407,Napoli,2026-09-14,18:00 - 19:00,250000,Available
+1670_3407_19:00,1670,Amalfi Court By VY,3407,Napoli,2026-09-14,19:00 - 20:00,250000,Booked
+1670_3407_20:00,1670,Amalfi Court By VY,3407,Napoli,2026-09-14,20:00 - 21:00,250000,Booked
+1670_3407_21:00,1670,Amalfi Court By VY,3407,Napoli,2026-09-14,21:00 - 22:00,125000,Available
+3256_7813_11:00,3256,AbsoluteFit Padel,7813,Blue Court,2026-09-14,11:00 - 12:00,150000,Available
+3256_7813_12:00,3256,AbsoluteFit Padel,7813,Blue Court,2026-09-14,12:00 - 13:00,150000,Available
+3256_7813_13:00,3256,AbsoluteFit Padel,7813,Blue Court,2026-09-14,13:00 - 14:00,150000,Available
+3256_7813_14:00,3256,AbsoluteFit Padel,7813,Blue Court,2026-09-14,14:00 - 15:00,150000,Available
+3256_7813_15:00,3256,AbsoluteFit Padel,7813,Blue Court,2026-09-14,15:00 - 16:00,150000,Available
+3256_7813_16:00,3256,AbsoluteFit Padel,7813,Blue Court,2026-09-14,16:00 - 17:00,200000,Available
+3256_7813_17:00,3256,AbsoluteFit Padel,7813,Blue Court,2026-09-14,17:00 - 18:00,200000,Booked
+3256_7813_18:00,3256,AbsoluteFit Padel,7813,Blue Court,2026-09-14,18:00 - 19:00,200000,Available
+3256_7813_19:00,3256,AbsoluteFit Padel,7813,Blue Court,2026-09-14,19:00 - 20:00,200000,Booked
+3256_7813_20:00,3256,AbsoluteFit Padel,7813,Blue Court,2026-09-14,20:00 - 21:00,200000,Available
+3256_7813_21:00,3256,AbsoluteFit Padel,7813,Blue Court,2026-09-14,21:00 - 22:00,200000,Available
+3256_7813_22:00,3256,AbsoluteFit Padel,7813,Blue Court,2026-09-14,22:00 - 23:00,200000,Available
+3256_9058_11:00,3256,AbsoluteFit Padel,9058,Pink Court,2026-09-14,11:00 - 12:00,150000,Available
+3256_9058_12:00,3256,AbsoluteFit Padel,9058,Pink Court,2026-09-14,12:00 - 13:00,150000,Available
+3256_9058_13:00,3256,AbsoluteFit Padel,9058,Pink Court,2026-09-14,13:00 - 14:00,150000,Available
+3256_9058_14:00,3256,AbsoluteFit Padel,9058,Pink Court,2026-09-14,14:00 - 15:00,150000,Available
+3256_9058_15:00,3256,AbsoluteFit Padel,9058,Pink Court,2026-09-14,15:00 - 16:00,150000,Available
+3256_9058_16:00,3256,AbsoluteFit Padel,9058,Pink Court,2026-09-14,16:00 - 17:00,200000,Available
+3256_9058_17:00,3256,AbsoluteFit Padel,9058,Pink Court,2026-09-14,17:00 - 18:00,200000,Available
+3256_9058_18:00,3256,AbsoluteFit Padel,9058,Pink Court,2026-09-14,18:00 - 19:00,200000,Booked
+3256_9058_19:00,3256,AbsoluteFit Padel,9058,Pink Court,2026-09-14,19:00 - 20:00,200000,Booked
+3256_9058_20:00,3256,AbsoluteFit Padel,9058,Pink Court,2026-09-14,20:00 - 21:00,200000,Available
+3256_9058_21:00,3256,AbsoluteFit Padel,9058,Pink Court,2026-09-14,21:00 - 22:00,200000,Available
+3256_9058_22:00,3256,AbsoluteFit Padel,9058,Pink Court,2026-09-14,22:00 - 23:00,200000,Available
+2712_6126_11:00,2712,Royal Padel,6126,Avalon by AMIDIS,2026-09-14,11:00 - 12:00,335000,Available
+2712_6126_12:00,2712,Royal Padel,6126,Avalon by AMIDIS,2026-09-14,12:00 - 13:00,235000,Available
+2712_6126_13:00,2712,Royal Padel,6126,Avalon by AMIDIS,2026-09-14,13:00 - 14:00,235000,Available
+2712_6126_14:00,2712,Royal Padel,6126,Avalon by AMIDIS,2026-09-14,14:00 - 15:00,235000,Available
+2712_6126_15:00,2712,Royal Padel,6126,Avalon by AMIDIS,2026-09-14,15:00 - 16:00,335000,Available
+2712_6126_16:00,2712,Royal Padel,6126,Avalon by AMIDIS,2026-09-14,16:00 - 17:00,335000,Available
+2712_6126_17:00,2712,Royal Padel,6126,Avalon by AMIDIS,2026-09-14,17:00 - 18:00,335000,Booked
+2712_6126_18:00,2712,Royal Padel,6126,Avalon by AMIDIS,2026-09-14,18:00 - 19:00,335000,Booked
+2712_6126_19:00,2712,Royal Padel,6126,Avalon by AMIDIS,2026-09-14,19:00 - 20:00,335000,Booked
+2712_6126_20:00,2712,Royal Padel,6126,Avalon by AMIDIS,2026-09-14,20:00 - 21:00,335000,Available
+2712_6126_21:00,2712,Royal Padel,6126,Avalon by AMIDIS,2026-09-14,21:00 - 22:00,335000,Available
+2712_6126_22:00,2712,Royal Padel,6126,Avalon by AMIDIS,2026-09-14,22:00 - 23:00,335000,Available
+2712_6629_11:00,2712,Royal Padel,6629,Balmoral Court,2026-09-14,11:00 - 12:00,335000,Available
+2712_6629_12:00,2712,Royal Padel,6629,Balmoral Court,2026-09-14,12:00 - 13:00,235000,Available
+2712_6629_13:00,2712,Royal Padel,6629,Balmoral Court,2026-09-14,13:00 - 14:00,235000,Available
+2712_6629_14:00,2712,Royal Padel,6629,Balmoral Court,2026-09-14,14:00 - 15:00,235000,Available
+2712_6629_15:00,2712,Royal Padel,6629,Balmoral Court,2026-09-14,15:00 - 16:00,335000,Available
+2712_6629_16:00,2712,Royal Padel,6629,Balmoral Court,2026-09-14,16:00 - 17:00,335000,Available
+2712_6629_17:00,2712,Royal Padel,6629,Balmoral Court,2026-09-14,17:00 - 18:00,335000,Booked
+2712_6629_18:00,2712,Royal Padel,6629,Balmoral Court,2026-09-14,18:00 - 19:00,335000,Available
+2712_6629_19:00,2712,Royal Padel,6629,Balmoral Court,2026-09-14,19:00 - 20:00,335000,Booked
+2712_6629_20:00,2712,Royal Padel,6629,Balmoral Court,2026-09-14,20:00 - 21:00,335000,Booked
+2712_6629_21:00,2712,Royal Padel,6629,Balmoral Court,2026-09-14,21:00 - 22:00,335000,Available
+2712_6629_22:00,2712,Royal Padel,6629,Balmoral Court,2026-09-14,22:00 - 23:00,335000,Available
+2712_6630_11:00,2712,Royal Padel,6630,Clifford Court,2026-09-14,11:00 - 12:00,335000,Available
+2712_6630_12:00,2712,Royal Padel,6630,Clifford Court,2026-09-14,12:00 - 13:00,235000,Available
+2712_6630_13:00,2712,Royal Padel,6630,Clifford Court,2026-09-14,13:00 - 14:00,235000,Available
+2712_6630_14:00,2712,Royal Padel,6630,Clifford Court,2026-09-14,14:00 - 15:00,235000,Available
+2712_6630_15:00,2712,Royal Padel,6630,Clifford Court,2026-09-14,15:00 - 16:00,335000,Available
+2712_6630_16:00,2712,Royal Padel,6630,Clifford Court,2026-09-14,16:00 - 17:00,335000,Available
+2712_6630_17:00,2712,Royal Padel,6630,Clifford Court,2026-09-14,17:00 - 18:00,335000,Booked
+2712_6630_18:00,2712,Royal Padel,6630,Clifford Court,2026-09-14,18:00 - 19:00,335000,Booked
+2712_6630_19:00,2712,Royal Padel,6630,Clifford Court,2026-09-14,19:00 - 20:00,335000,Available
+2712_6630_20:00,2712,Royal Padel,6630,Clifford Court,2026-09-14,20:00 - 21:00,335000,Booked
+2712_6630_21:00,2712,Royal Padel,6630,Clifford Court,2026-09-14,21:00 - 22:00,335000,Booked
+2712_6630_22:00,2712,Royal Padel,6630,Clifford Court,2026-09-14,22:00 - 23:00,335000,Available
+2712_6631_11:00,2712,Royal Padel,6631,Dover by DURAKING,2026-09-14,11:00 - 12:00,335000,Available
+2712_6631_12:00,2712,Royal Padel,6631,Dover by DURAKING,2026-09-14,12:00 - 13:00,235000,Available
+2712_6631_13:00,2712,Royal Padel,6631,Dover by DURAKING,2026-09-14,13:00 - 14:00,235000,Available
+2712_6631_14:00,2712,Royal Padel,6631,Dover by DURAKING,2026-09-14,14:00 - 15:00,235000,Available
+2712_6631_15:00,2712,Royal Padel,6631,Dover by DURAKING,2026-09-14,15:00 - 16:00,335000,Available
+2712_6631_16:00,2712,Royal Padel,6631,Dover by DURAKING,2026-09-14,16:00 - 17:00,335000,Available
+2712_6631_17:00,2712,Royal Padel,6631,Dover by DURAKING,2026-09-14,17:00 - 18:00,335000,Available
+2712_6631_18:00,2712,Royal Padel,6631,Dover by DURAKING,2026-09-14,18:00 - 19:00,335000,Booked
+2712_6631_19:00,2712,Royal Padel,6631,Dover by DURAKING,2026-09-14,19:00 - 20:00,335000,Booked
+2712_6631_20:00,2712,Royal Padel,6631,Dover by DURAKING,2026-09-14,20:00 - 21:00,335000,Booked
+2712_6631_21:00,2712,Royal Padel,6631,Dover by DURAKING,2026-09-14,21:00 - 22:00,335000,Booked
+2712_6631_22:00,2712,Royal Padel,6631,Dover by DURAKING,2026-09-14,22:00 - 23:00,335000,Available
+2619_5734_11:00,2619,Bara Padel Court,5734,Court 1,2026-09-14,11:00 - 12:00,180000,Available
+2619_5734_12:00,2619,Bara Padel Court,5734,Court 1,2026-09-14,12:00 - 13:00,180000,Available
+2619_5734_13:00,2619,Bara Padel Court,5734,Court 1,2026-09-14,13:00 - 14:00,180000,Available
+2619_5734_14:00,2619,Bara Padel Court,5734,Court 1,2026-09-14,14:00 - 15:00,180000,Available
+2619_5734_15:00,2619,Bara Padel Court,5734,Court 1,2026-09-14,15:00 - 16:00,180000,Available
+2619_5734_16:00,2619,Bara Padel Court,5734,Court 1,2026-09-14,16:00 - 17:00,180000,Available
+2619_5734_17:00,2619,Bara Padel Court,5734,Court 1,2026-09-14,17:00 - 18:00,325000,Available
+2619_5734_18:00,2619,Bara Padel Court,5734,Court 1,2026-09-14,18:00 - 19:00,325000,Available
+2619_5734_19:00,2619,Bara Padel Court,5734,Court 1,2026-09-14,19:00 - 20:00,325000,Available
+2619_5734_20:00,2619,Bara Padel Court,5734,Court 1,2026-09-14,20:00 - 21:00,325000,Available
+2619_5734_21:00,2619,Bara Padel Court,5734,Court 1,2026-09-14,21:00 - 22:00,325000,Available
+2619_5734_22:00,2619,Bara Padel Court,5734,Court 1,2026-09-14,22:00 - 23:00,99000,Available
+2619_5734_23:00,2619,Bara Padel Court,5734,Court 1,2026-09-14,23:00 - 00:00,99000,Available
+2619_7790_11:00,2619,Bara Padel Court,7790,Court 2,2026-09-14,11:00 - 12:00,180000,Available
+2619_7790_12:00,2619,Bara Padel Court,7790,Court 2,2026-09-14,12:00 - 13:00,180000,Available
+2619_7790_13:00,2619,Bara Padel Court,7790,Court 2,2026-09-14,13:00 - 14:00,180000,Available
+2619_7790_14:00,2619,Bara Padel Court,7790,Court 2,2026-09-14,14:00 - 15:00,180000,Available
+2619_7790_15:00,2619,Bara Padel Court,7790,Court 2,2026-09-14,15:00 - 16:00,180000,Available
+2619_7790_16:00,2619,Bara Padel Court,7790,Court 2,2026-09-14,16:00 - 17:00,180000,Available
+2619_7790_17:00,2619,Bara Padel Court,7790,Court 2,2026-09-14,17:00 - 18:00,325000,Available
+2619_7790_18:00,2619,Bara Padel Court,7790,Court 2,2026-09-14,18:00 - 19:00,325000,Available
+2619_7790_19:00,2619,Bara Padel Court,7790,Court 2,2026-09-14,19:00 - 20:00,325000,Available
+2619_7790_20:00,2619,Bara Padel Court,7790,Court 2,2026-09-14,20:00 - 21:00,325000,Available
+2619_7790_21:00,2619,Bara Padel Court,7790,Court 2,2026-09-14,21:00 - 22:00,325000,Available
+2619_7790_22:00,2619,Bara Padel Court,7790,Court 2,2026-09-14,22:00 - 23:00,99000,Available
+2619_7790_23:00,2619,Bara Padel Court,7790,Court 2,2026-09-14,23:00 - 00:00,99000,Available
+2026_4300_12:00,2026,Royal Sport Hall,4300,Padel Court,2026-09-14,12:00 - 13:00,250000,Available
+2026_4300_13:00,2026,Royal Sport Hall,4300,Padel Court,2026-09-14,13:00 - 14:00,250000,Available
+2026_4300_14:00,2026,Royal Sport Hall,4300,Padel Court,2026-09-14,14:00 - 15:00,250000,Available
+2026_4300_15:00,2026,Royal Sport Hall,4300,Padel Court,2026-09-14,15:00 - 16:00,250000,Available
+2026_4300_16:00,2026,Royal Sport Hall,4300,Padel Court,2026-09-14,16:00 - 17:00,250000,Available
+2026_4300_17:00,2026,Royal Sport Hall,4300,Padel Court,2026-09-14,17:00 - 18:00,250000,Available
+2026_4300_18:00,2026,Royal Sport Hall,4300,Padel Court,2026-09-14,18:00 - 19:00,300000,Available
+2026_4300_19:00,2026,Royal Sport Hall,4300,Padel Court,2026-09-14,19:00 - 20:00,300000,Available
+2026_4300_20:00,2026,Royal Sport Hall,4300,Padel Court,2026-09-14,20:00 - 21:00,300000,Available
+2026_4300_21:00,2026,Royal Sport Hall,4300,Padel Court,2026-09-14,21:00 - 22:00,300000,Available
+2026_4300_22:00,2026,Royal Sport Hall,4300,Padel Court,2026-09-14,22:00 - 23:00,300000,Available
+2026_4300_23:00,2026,Royal Sport Hall,4300,Padel Court,2026-09-14,23:00 - 00:00,300000,Available
+2026_4410_12:00,2026,Royal Sport Hall,4410,Lapangan 1,2026-09-14,12:00 - 13:00,70000,Available
+2026_4410_13:00,2026,Royal Sport Hall,4410,Lapangan 1,2026-09-14,13:00 - 14:00,70000,Available
+2026_4410_14:00,2026,Royal Sport Hall,4410,Lapangan 1,2026-09-14,14:00 - 15:00,70000,Available
+2026_4410_15:00,2026,Royal Sport Hall,4410,Lapangan 1,2026-09-14,15:00 - 16:00,70000,Available
+2026_4410_16:00,2026,Royal Sport Hall,4410,Lapangan 1,2026-09-14,16:00 - 17:00,100000,Available
+2026_4410_17:00,2026,Royal Sport Hall,4410,Lapangan 1,2026-09-14,17:00 - 18:00,100000,Available
+2026_4410_18:00,2026,Royal Sport Hall,4410,Lapangan 1,2026-09-14,18:00 - 19:00,100000,Booked
+2026_4410_19:00,2026,Royal Sport Hall,4410,Lapangan 1,2026-09-14,19:00 - 20:00,100000,Booked
+2026_4410_20:00,2026,Royal Sport Hall,4410,Lapangan 1,2026-09-14,20:00 - 21:00,100000,Booked
+2026_4410_21:00,2026,Royal Sport Hall,4410,Lapangan 1,2026-09-14,21:00 - 22:00,100000,Booked
+2026_4410_22:00,2026,Royal Sport Hall,4410,Lapangan 1,2026-09-14,22:00 - 23:00,100000,Available
+2026_4410_23:00,2026,Royal Sport Hall,4410,Lapangan 1,2026-09-14,23:00 - 00:00,100000,Available
+2026_4411_12:00,2026,Royal Sport Hall,4411,Lapangan 2,2026-09-14,12:00 - 13:00,70000,Available
+2026_4411_13:00,2026,Royal Sport Hall,4411,Lapangan 2,2026-09-14,13:00 - 14:00,70000,Available
+2026_4411_14:00,2026,Royal Sport Hall,4411,Lapangan 2,2026-09-14,14:00 - 15:00,70000,Available
+2026_4411_15:00,2026,Royal Sport Hall,4411,Lapangan 2,2026-09-14,15:00 - 16:00,70000,Available
+2026_4411_16:00,2026,Royal Sport Hall,4411,Lapangan 2,2026-09-14,16:00 - 17:00,100000,Available
+2026_4411_17:00,2026,Royal Sport Hall,4411,Lapangan 2,2026-09-14,17:00 - 18:00,100000,Booked
+2026_4411_18:00,2026,Royal Sport Hall,4411,Lapangan 2,2026-09-14,18:00 - 19:00,100000,Booked
+2026_4411_19:00,2026,Royal Sport Hall,4411,Lapangan 2,2026-09-14,19:00 - 20:00,100000,Booked
+2026_4411_20:00,2026,Royal Sport Hall,4411,Lapangan 2,2026-09-14,20:00 - 21:00,100000,Booked
+2026_4411_21:00,2026,Royal Sport Hall,4411,Lapangan 2,2026-09-14,21:00 - 22:00,100000,Booked
+2026_4411_22:00,2026,Royal Sport Hall,4411,Lapangan 2,2026-09-14,22:00 - 23:00,100000,Available
+2026_4411_23:00,2026,Royal Sport Hall,4411,Lapangan 2,2026-09-14,23:00 - 00:00,100000,Available
+2026_4412_12:00,2026,Royal Sport Hall,4412,Lapangan 3,2026-09-14,12:00 - 13:00,70000,Available
+2026_4412_13:00,2026,Royal Sport Hall,4412,Lapangan 3,2026-09-14,13:00 - 14:00,70000,Available
+2026_4412_14:00,2026,Royal Sport Hall,4412,Lapangan 3,2026-09-14,14:00 - 15:00,70000,Available
+2026_4412_15:00,2026,Royal Sport Hall,4412,Lapangan 3,2026-09-14,15:00 - 16:00,70000,Available
+2026_4412_16:00,2026,Royal Sport Hall,4412,Lapangan 3,2026-09-14,16:00 - 17:00,100000,Available
+2026_4412_17:00,2026,Royal Sport Hall,4412,Lapangan 3,2026-09-14,17:00 - 18:00,100000,Available
+2026_4412_18:00,2026,Royal Sport Hall,4412,Lapangan 3,2026-09-14,18:00 - 19:00,100000,Available
+2026_4412_19:00,2026,Royal Sport Hall,4412,Lapangan 3,2026-09-14,19:00 - 20:00,100000,Booked
+2026_4412_20:00,2026,Royal Sport Hall,4412,Lapangan 3,2026-09-14,20:00 - 21:00,100000,Booked
+2026_4412_21:00,2026,Royal Sport Hall,4412,Lapangan 3,2026-09-14,21:00 - 22:00,100000,Booked
+2026_4412_22:00,2026,Royal Sport Hall,4412,Lapangan 3,2026-09-14,22:00 - 23:00,100000,Available
+2026_4412_23:00,2026,Royal Sport Hall,4412,Lapangan 3,2026-09-14,23:00 - 00:00,100000,Available
+3077_7192_11:00,3077,Padelyuk,7192,Bandeja Court,2026-09-14,11:00 - 12:00,190000,Available
+3077_7192_12:00,3077,Padelyuk,7192,Bandeja Court,2026-09-14,12:00 - 13:00,190000,Available
+3077_7192_13:00,3077,Padelyuk,7192,Bandeja Court,2026-09-14,13:00 - 14:00,190000,Available
+3077_7192_14:00,3077,Padelyuk,7192,Bandeja Court,2026-09-14,14:00 - 15:00,190000,Available
+3077_7192_15:00,3077,Padelyuk,7192,Bandeja Court,2026-09-14,15:00 - 16:00,190000,Available
+3077_7192_16:00,3077,Padelyuk,7192,Bandeja Court,2026-09-14,16:00 - 17:00,190000,Available
+3077_7192_17:00,3077,Padelyuk,7192,Bandeja Court,2026-09-14,17:00 - 18:00,300000,Available
+3077_7192_18:00,3077,Padelyuk,7192,Bandeja Court,2026-09-14,18:00 - 19:00,300000,Available
+3077_7192_19:00,3077,Padelyuk,7192,Bandeja Court,2026-09-14,19:00 - 20:00,300000,Available
+3077_7192_20:00,3077,Padelyuk,7192,Bandeja Court,2026-09-14,20:00 - 21:00,300000,Available
+3077_7192_21:00,3077,Padelyuk,7192,Bandeja Court,2026-09-14,21:00 - 22:00,190000,Available
+3077_7192_22:00,3077,Padelyuk,7192,Bandeja Court,2026-09-14,22:00 - 23:00,190000,Available
+3077_7208_11:00,3077,Padelyuk,7208,Vibora Court,2026-09-14,11:00 - 12:00,190000,Available
+3077_7208_12:00,3077,Padelyuk,7208,Vibora Court,2026-09-14,12:00 - 13:00,190000,Available
+3077_7208_13:00,3077,Padelyuk,7208,Vibora Court,2026-09-14,13:00 - 14:00,190000,Available
+3077_7208_14:00,3077,Padelyuk,7208,Vibora Court,2026-09-14,14:00 - 15:00,190000,Available
+3077_7208_15:00,3077,Padelyuk,7208,Vibora Court,2026-09-14,15:00 - 16:00,190000,Available
+3077_7208_16:00,3077,Padelyuk,7208,Vibora Court,2026-09-14,16:00 - 17:00,190000,Available
+3077_7208_17:00,3077,Padelyuk,7208,Vibora Court,2026-09-14,17:00 - 18:00,300000,Available
+3077_7208_18:00,3077,Padelyuk,7208,Vibora Court,2026-09-14,18:00 - 19:00,300000,Available
+3077_7208_19:00,3077,Padelyuk,7208,Vibora Court,2026-09-14,19:00 - 20:00,300000,Available
+3077_7208_20:00,3077,Padelyuk,7208,Vibora Court,2026-09-14,20:00 - 21:00,300000,Booked
+3077_7208_21:00,3077,Padelyuk,7208,Vibora Court,2026-09-14,21:00 - 22:00,190000,Booked
+3077_7208_22:00,3077,Padelyuk,7208,Vibora Court,2026-09-14,22:00 - 23:00,190000,Available
+3077_7209_11:00,3077,Padelyuk,7209,Bajada Court,2026-09-14,11:00 - 12:00,190000,Available
+3077_7209_12:00,3077,Padelyuk,7209,Bajada Court,2026-09-14,12:00 - 13:00,190000,Available
+3077_7209_13:00,3077,Padelyuk,7209,Bajada Court,2026-09-14,13:00 - 14:00,190000,Available
+3077_7209_14:00,3077,Padelyuk,7209,Bajada Court,2026-09-14,14:00 - 15:00,190000,Available
+3077_7209_15:00,3077,Padelyuk,7209,Bajada Court,2026-09-14,15:00 - 16:00,190000,Booked
+3077_7209_16:00,3077,Padelyuk,7209,Bajada Court,2026-09-14,16:00 - 17:00,190000,Available
+3077_7209_17:00,3077,Padelyuk,7209,Bajada Court,2026-09-14,17:00 - 18:00,300000,Available
+3077_7209_18:00,3077,Padelyuk,7209,Bajada Court,2026-09-14,18:00 - 19:00,300000,Available
+3077_7209_19:00,3077,Padelyuk,7209,Bajada Court,2026-09-14,19:00 - 20:00,300000,Available
+3077_7209_20:00,3077,Padelyuk,7209,Bajada Court,2026-09-14,20:00 - 21:00,300000,Available
+3077_7209_21:00,3077,Padelyuk,7209,Bajada Court,2026-09-14,21:00 - 22:00,190000,Available
+3077_7209_22:00,3077,Padelyuk,7209,Bajada Court,2026-09-14,22:00 - 23:00,190000,Available
+1725_3487_11:00,1725,Elite Padel Club - Arandra Residence,3487,Court 1 (Black Turf),2026-09-14,11:00 - 12:00,250000,Available
+1725_3487_12:00,1725,Elite Padel Club - Arandra Residence,3487,Court 1 (Black Turf),2026-09-14,12:00 - 13:00,250000,Available
+1725_3487_13:00,1725,Elite Padel Club - Arandra Residence,3487,Court 1 (Black Turf),2026-09-14,13:00 - 14:00,250000,Available
+1725_3487_14:00,1725,Elite Padel Club - Arandra Residence,3487,Court 1 (Black Turf),2026-09-14,14:00 - 15:00,250000,Booked
+1725_3487_15:00,1725,Elite Padel Club - Arandra Residence,3487,Court 1 (Black Turf),2026-09-14,15:00 - 16:00,250000,Booked
+1725_3487_16:00,1725,Elite Padel Club - Arandra Residence,3487,Court 1 (Black Turf),2026-09-14,16:00 - 17:00,250000,Available
+1725_3487_17:00,1725,Elite Padel Club - Arandra Residence,3487,Court 1 (Black Turf),2026-09-14,17:00 - 18:00,250000,Booked
+1725_3487_18:00,1725,Elite Padel Club - Arandra Residence,3487,Court 1 (Black Turf),2026-09-14,18:00 - 19:00,250000,Booked
+1725_3487_19:00,1725,Elite Padel Club - Arandra Residence,3487,Court 1 (Black Turf),2026-09-14,19:00 - 20:00,250000,Booked
+1725_3487_20:00,1725,Elite Padel Club - Arandra Residence,3487,Court 1 (Black Turf),2026-09-14,20:00 - 21:00,250000,Booked
+1725_3487_21:00,1725,Elite Padel Club - Arandra Residence,3487,Court 1 (Black Turf),2026-09-14,21:00 - 22:00,250000,Booked
+1725_3487_22:00,1725,Elite Padel Club - Arandra Residence,3487,Court 1 (Black Turf),2026-09-14,22:00 - 23:00,250000,Available
+1725_4804_11:00,1725,Elite Padel Club - Arandra Residence,4804,Court 2 (Black Turf),2026-09-14,11:00 - 12:00,250000,Available
+1725_4804_12:00,1725,Elite Padel Club - Arandra Residence,4804,Court 2 (Black Turf),2026-09-14,12:00 - 13:00,250000,Available
+1725_4804_13:00,1725,Elite Padel Club - Arandra Residence,4804,Court 2 (Black Turf),2026-09-14,13:00 - 14:00,250000,Available
+1725_4804_14:00,1725,Elite Padel Club - Arandra Residence,4804,Court 2 (Black Turf),2026-09-14,14:00 - 15:00,250000,Available
+1725_4804_15:00,1725,Elite Padel Club - Arandra Residence,4804,Court 2 (Black Turf),2026-09-14,15:00 - 16:00,250000,Booked
+1725_4804_16:00,1725,Elite Padel Club - Arandra Residence,4804,Court 2 (Black Turf),2026-09-14,16:00 - 17:00,250000,Booked
+1725_4804_17:00,1725,Elite Padel Club - Arandra Residence,4804,Court 2 (Black Turf),2026-09-14,17:00 - 18:00,250000,Available
+1725_4804_18:00,1725,Elite Padel Club - Arandra Residence,4804,Court 2 (Black Turf),2026-09-14,18:00 - 19:00,250000,Booked
+1725_4804_19:00,1725,Elite Padel Club - Arandra Residence,4804,Court 2 (Black Turf),2026-09-14,19:00 - 20:00,250000,Booked
+1725_4804_20:00,1725,Elite Padel Club - Arandra Residence,4804,Court 2 (Black Turf),2026-09-14,20:00 - 21:00,250000,Booked
+1725_4804_21:00,1725,Elite Padel Club - Arandra Residence,4804,Court 2 (Black Turf),2026-09-14,21:00 - 22:00,250000,Booked
+1725_4804_22:00,1725,Elite Padel Club - Arandra Residence,4804,Court 2 (Black Turf),2026-09-14,22:00 - 23:00,250000,Available
+1725_4805_11:00,1725,Elite Padel Club - Arandra Residence,4805,Court 3 (Teal Turf),2026-09-14,11:00 - 12:00,250000,Available
+1725_4805_12:00,1725,Elite Padel Club - Arandra Residence,4805,Court 3 (Teal Turf),2026-09-14,12:00 - 13:00,250000,Available
+1725_4805_13:00,1725,Elite Padel Club - Arandra Residence,4805,Court 3 (Teal Turf),2026-09-14,13:00 - 14:00,250000,Available
+1725_4805_14:00,1725,Elite Padel Club - Arandra Residence,4805,Court 3 (Teal Turf),2026-09-14,14:00 - 15:00,250000,Booked
+1725_4805_15:00,1725,Elite Padel Club - Arandra Residence,4805,Court 3 (Teal Turf),2026-09-14,15:00 - 16:00,250000,Booked
+1725_4805_16:00,1725,Elite Padel Club - Arandra Residence,4805,Court 3 (Teal Turf),2026-09-14,16:00 - 17:00,250000,Available
+1725_4805_17:00,1725,Elite Padel Club - Arandra Residence,4805,Court 3 (Teal Turf),2026-09-14,17:00 - 18:00,250000,Available
+1725_4805_18:00,1725,Elite Padel Club - Arandra Residence,4805,Court 3 (Teal Turf),2026-09-14,18:00 - 19:00,250000,Booked
+1725_4805_19:00,1725,Elite Padel Club - Arandra Residence,4805,Court 3 (Teal Turf),2026-09-14,19:00 - 20:00,250000,Booked
+1725_4805_20:00,1725,Elite Padel Club - Arandra Residence,4805,Court 3 (Teal Turf),2026-09-14,20:00 - 21:00,250000,Available
+1725_4805_21:00,1725,Elite Padel Club - Arandra Residence,4805,Court 3 (Teal Turf),2026-09-14,21:00 - 22:00,250000,Available
+1725_4805_22:00,1725,Elite Padel Club - Arandra Residence,4805,Court 3 (Teal Turf),2026-09-14,22:00 - 23:00,250000,Available
+1725_4806_11:00,1725,Elite Padel Club - Arandra Residence,4806,Court 4 (Teal Turf),2026-09-14,11:00 - 12:00,250000,Booked
+1725_4806_12:00,1725,Elite Padel Club - Arandra Residence,4806,Court 4 (Teal Turf),2026-09-14,12:00 - 13:00,250000,Available
+1725_4806_13:00,1725,Elite Padel Club - Arandra Residence,4806,Court 4 (Teal Turf),2026-09-14,13:00 - 14:00,250000,Available
+1725_4806_14:00,1725,Elite Padel Club - Arandra Residence,4806,Court 4 (Teal Turf),2026-09-14,14:00 - 15:00,250000,Available
+1725_4806_15:00,1725,Elite Padel Club - Arandra Residence,4806,Court 4 (Teal Turf),2026-09-14,15:00 - 16:00,250000,Available
+1725_4806_16:00,1725,Elite Padel Club - Arandra Residence,4806,Court 4 (Teal Turf),2026-09-14,16:00 - 17:00,250000,Available
+1725_4806_17:00,1725,Elite Padel Club - Arandra Residence,4806,Court 4 (Teal Turf),2026-09-14,17:00 - 18:00,250000,Available
+1725_4806_18:00,1725,Elite Padel Club - Arandra Residence,4806,Court 4 (Teal Turf),2026-09-14,18:00 - 19:00,250000,Booked
+1725_4806_19:00,1725,Elite Padel Club - Arandra Residence,4806,Court 4 (Teal Turf),2026-09-14,19:00 - 20:00,250000,Booked
+1725_4806_20:00,1725,Elite Padel Club - Arandra Residence,4806,Court 4 (Teal Turf),2026-09-14,20:00 - 21:00,250000,Available
+1725_4806_21:00,1725,Elite Padel Club - Arandra Residence,4806,Court 4 (Teal Turf),2026-09-14,21:00 - 22:00,250000,Available
+1725_4806_22:00,1725,Elite Padel Club - Arandra Residence,4806,Court 4 (Teal Turf),2026-09-14,22:00 - 23:00,250000,Available
+1725_4807_11:00,1725,Elite Padel Club - Arandra Residence,4807,Court 5 (Teal Turf),2026-09-14,11:00 - 12:00,250000,Booked
+1725_4807_12:00,1725,Elite Padel Club - Arandra Residence,4807,Court 5 (Teal Turf),2026-09-14,12:00 - 13:00,250000,Available
+1725_4807_13:00,1725,Elite Padel Club - Arandra Residence,4807,Court 5 (Teal Turf),2026-09-14,13:00 - 14:00,250000,Available
+1725_4807_14:00,1725,Elite Padel Club - Arandra Residence,4807,Court 5 (Teal Turf),2026-09-14,14:00 - 15:00,250000,Available
+1725_4807_15:00,1725,Elite Padel Club - Arandra Residence,4807,Court 5 (Teal Turf),2026-09-14,15:00 - 16:00,250000,Available
+1725_4807_16:00,1725,Elite Padel Club - Arandra Residence,4807,Court 5 (Teal Turf),2026-09-14,16:00 - 17:00,250000,Available
+1725_4807_17:00,1725,Elite Padel Club - Arandra Residence,4807,Court 5 (Teal Turf),2026-09-14,17:00 - 18:00,250000,Available
+1725_4807_18:00,1725,Elite Padel Club - Arandra Residence,4807,Court 5 (Teal Turf),2026-09-14,18:00 - 19:00,250000,Booked
+1725_4807_19:00,1725,Elite Padel Club - Arandra Residence,4807,Court 5 (Teal Turf),2026-09-14,19:00 - 20:00,250000,Booked
+1725_4807_20:00,1725,Elite Padel Club - Arandra Residence,4807,Court 5 (Teal Turf),2026-09-14,20:00 - 21:00,250000,Available
+1725_4807_21:00,1725,Elite Padel Club - Arandra Residence,4807,Court 5 (Teal Turf),2026-09-14,21:00 - 22:00,250000,Available
+1725_4807_22:00,1725,Elite Padel Club - Arandra Residence,4807,Court 5 (Teal Turf),2026-09-14,22:00 - 23:00,250000,Available
+1725_4808_11:00,1725,Elite Padel Club - Arandra Residence,4808,Court 6 (Teal Turf),2026-09-14,11:00 - 12:00,250000,Available
+1725_4808_12:00,1725,Elite Padel Club - Arandra Residence,4808,Court 6 (Teal Turf),2026-09-14,12:00 - 13:00,250000,Available
+1725_4808_13:00,1725,Elite Padel Club - Arandra Residence,4808,Court 6 (Teal Turf),2026-09-14,13:00 - 14:00,250000,Available
+1725_4808_14:00,1725,Elite Padel Club - Arandra Residence,4808,Court 6 (Teal Turf),2026-09-14,14:00 - 15:00,250000,Available
+1725_4808_15:00,1725,Elite Padel Club - Arandra Residence,4808,Court 6 (Teal Turf),2026-09-14,15:00 - 16:00,250000,Available
+1725_4808_16:00,1725,Elite Padel Club - Arandra Residence,4808,Court 6 (Teal Turf),2026-09-14,16:00 - 17:00,250000,Available
+1725_4808_17:00,1725,Elite Padel Club - Arandra Residence,4808,Court 6 (Teal Turf),2026-09-14,17:00 - 18:00,250000,Booked
+1725_4808_18:00,1725,Elite Padel Club - Arandra Residence,4808,Court 6 (Teal Turf),2026-09-14,18:00 - 19:00,250000,Booked
+1725_4808_19:00,1725,Elite Padel Club - Arandra Residence,4808,Court 6 (Teal Turf),2026-09-14,19:00 - 20:00,250000,Booked
+1725_4808_20:00,1725,Elite Padel Club - Arandra Residence,4808,Court 6 (Teal Turf),2026-09-14,20:00 - 21:00,250000,Booked
+1725_4808_21:00,1725,Elite Padel Club - Arandra Residence,4808,Court 6 (Teal Turf),2026-09-14,21:00 - 22:00,250000,Available
+1725_4808_22:00,1725,Elite Padel Club - Arandra Residence,4808,Court 6 (Teal Turf),2026-09-14,22:00 - 23:00,250000,Available
+1733_3491_11:00,1733,ZSC Padel,3491,Court Z ( Purple ),2026-09-14,11:00 - 12:00,125000,Available
+1733_3491_12:00,1733,ZSC Padel,3491,Court Z ( Purple ),2026-09-14,12:00 - 13:00,125000,Available
+1733_3491_13:00,1733,ZSC Padel,3491,Court Z ( Purple ),2026-09-14,13:00 - 14:00,125000,Available
+1733_3491_14:00,1733,ZSC Padel,3491,Court Z ( Purple ),2026-09-14,14:00 - 15:00,125000,Available
+1733_3491_15:00,1733,ZSC Padel,3491,Court Z ( Purple ),2026-09-14,15:00 - 16:00,170000,Available
+1733_3491_16:00,1733,ZSC Padel,3491,Court Z ( Purple ),2026-09-14,16:00 - 17:00,170000,Available
+1733_3491_17:00,1733,ZSC Padel,3491,Court Z ( Purple ),2026-09-14,17:00 - 18:00,260000,Available
+1733_3491_18:00,1733,ZSC Padel,3491,Court Z ( Purple ),2026-09-14,18:00 - 19:00,260000,Available
+1733_3491_19:00,1733,ZSC Padel,3491,Court Z ( Purple ),2026-09-14,19:00 - 20:00,260000,Available
+1733_3491_20:00,1733,ZSC Padel,3491,Court Z ( Purple ),2026-09-14,20:00 - 21:00,260000,Available
+1733_3491_21:00,1733,ZSC Padel,3491,Court Z ( Purple ),2026-09-14,21:00 - 22:00,200000,Available
+1733_3491_22:00,1733,ZSC Padel,3491,Court Z ( Purple ),2026-09-14,22:00 - 23:00,200000,Available
+1733_3491_23:00,1733,ZSC Padel,3491,Court Z ( Purple ),2026-09-14,23:00 - 00:00,200000,Available
+1733_3811_11:00,1733,ZSC Padel,3811,Court C ( Blue ),2026-09-14,11:00 - 12:00,125000,Available
+1733_3811_12:00,1733,ZSC Padel,3811,Court C ( Blue ),2026-09-14,12:00 - 13:00,125000,Available
+1733_3811_13:00,1733,ZSC Padel,3811,Court C ( Blue ),2026-09-14,13:00 - 14:00,125000,Available
+1733_3811_14:00,1733,ZSC Padel,3811,Court C ( Blue ),2026-09-14,14:00 - 15:00,125000,Available
+1733_3811_15:00,1733,ZSC Padel,3811,Court C ( Blue ),2026-09-14,15:00 - 16:00,170000,Available
+1733_3811_16:00,1733,ZSC Padel,3811,Court C ( Blue ),2026-09-14,16:00 - 17:00,170000,Available
+1733_3811_17:00,1733,ZSC Padel,3811,Court C ( Blue ),2026-09-14,17:00 - 18:00,260000,Available
+1733_3811_18:00,1733,ZSC Padel,3811,Court C ( Blue ),2026-09-14,18:00 - 19:00,260000,Available
+1733_3811_19:00,1733,ZSC Padel,3811,Court C ( Blue ),2026-09-14,19:00 - 20:00,260000,Available
+1733_3811_20:00,1733,ZSC Padel,3811,Court C ( Blue ),2026-09-14,20:00 - 21:00,260000,Available
+1733_3811_21:00,1733,ZSC Padel,3811,Court C ( Blue ),2026-09-14,21:00 - 22:00,200000,Available
+1733_3811_22:00,1733,ZSC Padel,3811,Court C ( Blue ),2026-09-14,22:00 - 23:00,200000,Available
+1733_3811_23:00,1733,ZSC Padel,3811,Court C ( Blue ),2026-09-14,23:00 - 00:00,200000,Available
+2389_5026_11:00,2389,Sweat and Social Padel (Arcici Sport Center),5026,Court 1 (purple),2026-09-14,11:00 - 12:00,225000,Available
+2389_5026_12:00,2389,Sweat and Social Padel (Arcici Sport Center),5026,Court 1 (purple),2026-09-14,12:00 - 13:00,180000,Available
+2389_5026_13:00,2389,Sweat and Social Padel (Arcici Sport Center),5026,Court 1 (purple),2026-09-14,13:00 - 14:00,180000,Available
+2389_5026_14:00,2389,Sweat and Social Padel (Arcici Sport Center),5026,Court 1 (purple),2026-09-14,14:00 - 15:00,180000,Available
+2389_5026_15:00,2389,Sweat and Social Padel (Arcici Sport Center),5026,Court 1 (purple),2026-09-14,15:00 - 16:00,180000,Available
+2389_5026_16:00,2389,Sweat and Social Padel (Arcici Sport Center),5026,Court 1 (purple),2026-09-14,16:00 - 17:00,180000,Available
+2389_5026_17:00,2389,Sweat and Social Padel (Arcici Sport Center),5026,Court 1 (purple),2026-09-14,17:00 - 18:00,180000,Booked
+2389_5026_18:00,2389,Sweat and Social Padel (Arcici Sport Center),5026,Court 1 (purple),2026-09-14,18:00 - 19:00,250000,Booked
+2389_5026_19:00,2389,Sweat and Social Padel (Arcici Sport Center),5026,Court 1 (purple),2026-09-14,19:00 - 20:00,250000,Booked
+2389_5026_20:00,2389,Sweat and Social Padel (Arcici Sport Center),5026,Court 1 (purple),2026-09-14,20:00 - 21:00,250000,Booked
+2389_5026_21:00,2389,Sweat and Social Padel (Arcici Sport Center),5026,Court 1 (purple),2026-09-14,21:00 - 22:00,250000,Available
+2389_5026_22:00,2389,Sweat and Social Padel (Arcici Sport Center),5026,Court 1 (purple),2026-09-14,22:00 - 23:00,250000,Booked
+2389_5026_23:00,2389,Sweat and Social Padel (Arcici Sport Center),5026,Court 1 (purple),2026-09-14,23:00 - 00:00,250000,Booked
+2389_5042_11:00,2389,Sweat and Social Padel (Arcici Sport Center),5042,Court 2 (blue),2026-09-14,11:00 - 12:00,225000,Available
+2389_5042_12:00,2389,Sweat and Social Padel (Arcici Sport Center),5042,Court 2 (blue),2026-09-14,12:00 - 13:00,180000,Available
+2389_5042_13:00,2389,Sweat and Social Padel (Arcici Sport Center),5042,Court 2 (blue),2026-09-14,13:00 - 14:00,180000,Available
+2389_5042_14:00,2389,Sweat and Social Padel (Arcici Sport Center),5042,Court 2 (blue),2026-09-14,14:00 - 15:00,180000,Available
+2389_5042_15:00,2389,Sweat and Social Padel (Arcici Sport Center),5042,Court 2 (blue),2026-09-14,15:00 - 16:00,180000,Available
+2389_5042_16:00,2389,Sweat and Social Padel (Arcici Sport Center),5042,Court 2 (blue),2026-09-14,16:00 - 17:00,180000,Available
+2389_5042_17:00,2389,Sweat and Social Padel (Arcici Sport Center),5042,Court 2 (blue),2026-09-14,17:00 - 18:00,180000,Booked
+2389_5042_18:00,2389,Sweat and Social Padel (Arcici Sport Center),5042,Court 2 (blue),2026-09-14,18:00 - 19:00,250000,Booked
+2389_5042_19:00,2389,Sweat and Social Padel (Arcici Sport Center),5042,Court 2 (blue),2026-09-14,19:00 - 20:00,250000,Booked
+2389_5042_20:00,2389,Sweat and Social Padel (Arcici Sport Center),5042,Court 2 (blue),2026-09-14,20:00 - 21:00,250000,Booked
+2389_5042_21:00,2389,Sweat and Social Padel (Arcici Sport Center),5042,Court 2 (blue),2026-09-14,21:00 - 22:00,250000,Available
+2389_5042_22:00,2389,Sweat and Social Padel (Arcici Sport Center),5042,Court 2 (blue),2026-09-14,22:00 - 23:00,250000,Available
+2389_5042_23:00,2389,Sweat and Social Padel (Arcici Sport Center),5042,Court 2 (blue),2026-09-14,23:00 - 00:00,250000,Available
+2389_5043_11:00,2389,Sweat and Social Padel (Arcici Sport Center),5043,Court 3 (purple),2026-09-14,11:00 - 12:00,225000,Available
+2389_5043_12:00,2389,Sweat and Social Padel (Arcici Sport Center),5043,Court 3 (purple),2026-09-14,12:00 - 13:00,180000,Available
+2389_5043_13:00,2389,Sweat and Social Padel (Arcici Sport Center),5043,Court 3 (purple),2026-09-14,13:00 - 14:00,180000,Available
+2389_5043_14:00,2389,Sweat and Social Padel (Arcici Sport Center),5043,Court 3 (purple),2026-09-14,14:00 - 15:00,180000,Available
+2389_5043_15:00,2389,Sweat and Social Padel (Arcici Sport Center),5043,Court 3 (purple),2026-09-14,15:00 - 16:00,180000,Available
+2389_5043_16:00,2389,Sweat and Social Padel (Arcici Sport Center),5043,Court 3 (purple),2026-09-14,16:00 - 17:00,180000,Available
+2389_5043_17:00,2389,Sweat and Social Padel (Arcici Sport Center),5043,Court 3 (purple),2026-09-14,17:00 - 18:00,180000,Booked
+2389_5043_18:00,2389,Sweat and Social Padel (Arcici Sport Center),5043,Court 3 (purple),2026-09-14,18:00 - 19:00,250000,Booked
+2389_5043_19:00,2389,Sweat and Social Padel (Arcici Sport Center),5043,Court 3 (purple),2026-09-14,19:00 - 20:00,250000,Booked
+2389_5043_20:00,2389,Sweat and Social Padel (Arcici Sport Center),5043,Court 3 (purple),2026-09-14,20:00 - 21:00,250000,Booked
+2389_5043_21:00,2389,Sweat and Social Padel (Arcici Sport Center),5043,Court 3 (purple),2026-09-14,21:00 - 22:00,250000,Available
+2389_5043_22:00,2389,Sweat and Social Padel (Arcici Sport Center),5043,Court 3 (purple),2026-09-14,22:00 - 23:00,250000,Booked
+2389_5043_23:00,2389,Sweat and Social Padel (Arcici Sport Center),5043,Court 3 (purple),2026-09-14,23:00 - 00:00,250000,Booked
+2389_5044_11:00,2389,Sweat and Social Padel (Arcici Sport Center),5044,Court 4 (blue),2026-09-14,11:00 - 12:00,225000,Available
+2389_5044_12:00,2389,Sweat and Social Padel (Arcici Sport Center),5044,Court 4 (blue),2026-09-14,12:00 - 13:00,180000,Available
+2389_5044_13:00,2389,Sweat and Social Padel (Arcici Sport Center),5044,Court 4 (blue),2026-09-14,13:00 - 14:00,180000,Available
+2389_5044_14:00,2389,Sweat and Social Padel (Arcici Sport Center),5044,Court 4 (blue),2026-09-14,14:00 - 15:00,180000,Available
+2389_5044_15:00,2389,Sweat and Social Padel (Arcici Sport Center),5044,Court 4 (blue),2026-09-14,15:00 - 16:00,180000,Available
+2389_5044_16:00,2389,Sweat and Social Padel (Arcici Sport Center),5044,Court 4 (blue),2026-09-14,16:00 - 17:00,180000,Booked
+2389_5044_17:00,2389,Sweat and Social Padel (Arcici Sport Center),5044,Court 4 (blue),2026-09-14,17:00 - 18:00,180000,Booked
+2389_5044_18:00,2389,Sweat and Social Padel (Arcici Sport Center),5044,Court 4 (blue),2026-09-14,18:00 - 19:00,250000,Booked
+2389_5044_19:00,2389,Sweat and Social Padel (Arcici Sport Center),5044,Court 4 (blue),2026-09-14,19:00 - 20:00,250000,Booked
+2389_5044_20:00,2389,Sweat and Social Padel (Arcici Sport Center),5044,Court 4 (blue),2026-09-14,20:00 - 21:00,250000,Available
+2389_5044_21:00,2389,Sweat and Social Padel (Arcici Sport Center),5044,Court 4 (blue),2026-09-14,21:00 - 22:00,250000,Available
+2389_5044_22:00,2389,Sweat and Social Padel (Arcici Sport Center),5044,Court 4 (blue),2026-09-14,22:00 - 23:00,250000,Available
+2389_5044_23:00,2389,Sweat and Social Padel (Arcici Sport Center),5044,Court 4 (blue),2026-09-14,23:00 - 00:00,250000,Available
+2059_8800_11:00,2059,Athletiqs Airdome,8800,VIP A,2026-09-14,11:00 - 12:00,600000,Available
+2059_8800_12:00,2059,Athletiqs Airdome,8800,VIP A,2026-09-14,12:00 - 13:00,600000,Available
+2059_8800_13:00,2059,Athletiqs Airdome,8800,VIP A,2026-09-14,13:00 - 14:00,600000,Available
+2059_8800_14:00,2059,Athletiqs Airdome,8800,VIP A,2026-09-14,14:00 - 15:00,600000,Available
+2059_8800_15:00,2059,Athletiqs Airdome,8800,VIP A,2026-09-14,15:00 - 16:00,600000,Available
+2059_8800_16:00,2059,Athletiqs Airdome,8800,VIP A,2026-09-14,16:00 - 17:00,800000,Available
+2059_8800_17:00,2059,Athletiqs Airdome,8800,VIP A,2026-09-14,17:00 - 18:00,800000,Available
+2059_8800_18:00,2059,Athletiqs Airdome,8800,VIP A,2026-09-14,18:00 - 19:00,800000,Booked
+2059_8800_19:00,2059,Athletiqs Airdome,8800,VIP A,2026-09-14,19:00 - 20:00,800000,Booked
+2059_8800_20:00,2059,Athletiqs Airdome,8800,VIP A,2026-09-14,20:00 - 21:00,800000,Booked
+2059_8800_21:00,2059,Athletiqs Airdome,8800,VIP A,2026-09-14,21:00 - 22:00,800000,Available
+2059_8802_11:00,2059,Athletiqs Airdome,8802,VIP B,2026-09-14,11:00 - 12:00,600000,Available
+2059_8802_12:00,2059,Athletiqs Airdome,8802,VIP B,2026-09-14,12:00 - 13:00,600000,Available
+2059_8802_13:00,2059,Athletiqs Airdome,8802,VIP B,2026-09-14,13:00 - 14:00,600000,Available
+2059_8802_14:00,2059,Athletiqs Airdome,8802,VIP B,2026-09-14,14:00 - 15:00,600000,Available
+2059_8802_15:00,2059,Athletiqs Airdome,8802,VIP B,2026-09-14,15:00 - 16:00,600000,Available
+2059_8802_16:00,2059,Athletiqs Airdome,8802,VIP B,2026-09-14,16:00 - 17:00,800000,Available
+2059_8802_17:00,2059,Athletiqs Airdome,8802,VIP B,2026-09-14,17:00 - 18:00,800000,Available
+2059_8802_18:00,2059,Athletiqs Airdome,8802,VIP B,2026-09-14,18:00 - 19:00,800000,Booked
+2059_8802_19:00,2059,Athletiqs Airdome,8802,VIP B,2026-09-14,19:00 - 20:00,800000,Booked
+2059_8802_20:00,2059,Athletiqs Airdome,8802,VIP B,2026-09-14,20:00 - 21:00,800000,Booked
+2059_8802_21:00,2059,Athletiqs Airdome,8802,VIP B,2026-09-14,21:00 - 22:00,800000,Available
+2059_8803_11:00,2059,Athletiqs Airdome,8803,Center Court,2026-09-14,11:00 - 12:00,500000,Available
+2059_8803_12:00,2059,Athletiqs Airdome,8803,Center Court,2026-09-14,12:00 - 13:00,500000,Available
+2059_8803_13:00,2059,Athletiqs Airdome,8803,Center Court,2026-09-14,13:00 - 14:00,500000,Available
+2059_8803_14:00,2059,Athletiqs Airdome,8803,Center Court,2026-09-14,14:00 - 15:00,500000,Available
+2059_8803_15:00,2059,Athletiqs Airdome,8803,Center Court,2026-09-14,15:00 - 16:00,500000,Available
+2059_8803_16:00,2059,Athletiqs Airdome,8803,Center Court,2026-09-14,16:00 - 17:00,700000,Available
+2059_8803_17:00,2059,Athletiqs Airdome,8803,Center Court,2026-09-14,17:00 - 18:00,700000,Booked
+2059_8803_18:00,2059,Athletiqs Airdome,8803,Center Court,2026-09-14,18:00 - 19:00,700000,Booked
+2059_8803_19:00,2059,Athletiqs Airdome,8803,Center Court,2026-09-14,19:00 - 20:00,700000,Booked
+2059_8803_20:00,2059,Athletiqs Airdome,8803,Center Court,2026-09-14,20:00 - 21:00,700000,Booked
+2059_8803_21:00,2059,Athletiqs Airdome,8803,Center Court,2026-09-14,21:00 - 22:00,700000,Available
+2059_4277_11:00,2059,Athletiqs Airdome,4277,Court 1,2026-09-14,11:00 - 12:00,400000,Booked
+2059_4277_12:00,2059,Athletiqs Airdome,4277,Court 1,2026-09-14,12:00 - 13:00,400000,Booked
+2059_4277_13:00,2059,Athletiqs Airdome,4277,Court 1,2026-09-14,13:00 - 14:00,400000,Available
+2059_4277_14:00,2059,Athletiqs Airdome,4277,Court 1,2026-09-14,14:00 - 15:00,400000,Available
+2059_4277_15:00,2059,Athletiqs Airdome,4277,Court 1,2026-09-14,15:00 - 16:00,400000,Available
+2059_4277_16:00,2059,Athletiqs Airdome,4277,Court 1,2026-09-14,16:00 - 17:00,600000,Available
+2059_4277_17:00,2059,Athletiqs Airdome,4277,Court 1,2026-09-14,17:00 - 18:00,600000,Available
+2059_4277_18:00,2059,Athletiqs Airdome,4277,Court 1,2026-09-14,18:00 - 19:00,600000,Booked
+2059_4277_19:00,2059,Athletiqs Airdome,4277,Court 1,2026-09-14,19:00 - 20:00,600000,Booked
+2059_4277_20:00,2059,Athletiqs Airdome,4277,Court 1,2026-09-14,20:00 - 21:00,600000,Booked
+2059_4277_21:00,2059,Athletiqs Airdome,4277,Court 1,2026-09-14,21:00 - 22:00,600000,Booked
+2059_4278_11:00,2059,Athletiqs Airdome,4278,Court 2,2026-09-14,11:00 - 12:00,400000,Booked
+2059_4278_12:00,2059,Athletiqs Airdome,4278,Court 2,2026-09-14,12:00 - 13:00,400000,Booked
+2059_4278_13:00,2059,Athletiqs Airdome,4278,Court 2,2026-09-14,13:00 - 14:00,400000,Available
+2059_4278_14:00,2059,Athletiqs Airdome,4278,Court 2,2026-09-14,14:00 - 15:00,400000,Available
+2059_4278_15:00,2059,Athletiqs Airdome,4278,Court 2,2026-09-14,15:00 - 16:00,400000,Available
+2059_4278_16:00,2059,Athletiqs Airdome,4278,Court 2,2026-09-14,16:00 - 17:00,600000,Available
+2059_4278_17:00,2059,Athletiqs Airdome,4278,Court 2,2026-09-14,17:00 - 18:00,600000,Available
+2059_4278_18:00,2059,Athletiqs Airdome,4278,Court 2,2026-09-14,18:00 - 19:00,600000,Available
+2059_4278_19:00,2059,Athletiqs Airdome,4278,Court 2,2026-09-14,19:00 - 20:00,600000,Booked
+2059_4278_20:00,2059,Athletiqs Airdome,4278,Court 2,2026-09-14,20:00 - 21:00,600000,Booked
+2059_4278_21:00,2059,Athletiqs Airdome,4278,Court 2,2026-09-14,21:00 - 22:00,600000,Available
+2059_4279_11:00,2059,Athletiqs Airdome,4279,Court 3,2026-09-14,11:00 - 12:00,400000,Booked
+2059_4279_12:00,2059,Athletiqs Airdome,4279,Court 3,2026-09-14,12:00 - 13:00,400000,Available
+2059_4279_13:00,2059,Athletiqs Airdome,4279,Court 3,2026-09-14,13:00 - 14:00,400000,Available
+2059_4279_14:00,2059,Athletiqs Airdome,4279,Court 3,2026-09-14,14:00 - 15:00,400000,Available
+2059_4279_15:00,2059,Athletiqs Airdome,4279,Court 3,2026-09-14,15:00 - 16:00,400000,Available
+2059_4279_16:00,2059,Athletiqs Airdome,4279,Court 3,2026-09-14,16:00 - 17:00,600000,Available
+2059_4279_17:00,2059,Athletiqs Airdome,4279,Court 3,2026-09-14,17:00 - 18:00,600000,Booked
+2059_4279_18:00,2059,Athletiqs Airdome,4279,Court 3,2026-09-14,18:00 - 19:00,600000,Booked
+2059_4279_19:00,2059,Athletiqs Airdome,4279,Court 3,2026-09-14,19:00 - 20:00,600000,Booked
+2059_4279_20:00,2059,Athletiqs Airdome,4279,Court 3,2026-09-14,20:00 - 21:00,600000,Booked
+2059_4279_21:00,2059,Athletiqs Airdome,4279,Court 3,2026-09-14,21:00 - 22:00,600000,Available
+2059_4280_11:00,2059,Athletiqs Airdome,4280,Court 4,2026-09-14,11:00 - 12:00,400000,Available
+2059_4280_12:00,2059,Athletiqs Airdome,4280,Court 4,2026-09-14,12:00 - 13:00,400000,Available
+2059_4280_13:00,2059,Athletiqs Airdome,4280,Court 4,2026-09-14,13:00 - 14:00,400000,Available
+2059_4280_14:00,2059,Athletiqs Airdome,4280,Court 4,2026-09-14,14:00 - 15:00,400000,Available
+2059_4280_15:00,2059,Athletiqs Airdome,4280,Court 4,2026-09-14,15:00 - 16:00,400000,Available
+2059_4280_16:00,2059,Athletiqs Airdome,4280,Court 4,2026-09-14,16:00 - 17:00,600000,Available
+2059_4280_17:00,2059,Athletiqs Airdome,4280,Court 4,2026-09-14,17:00 - 18:00,600000,Booked
+2059_4280_18:00,2059,Athletiqs Airdome,4280,Court 4,2026-09-14,18:00 - 19:00,600000,Booked
+2059_4280_19:00,2059,Athletiqs Airdome,4280,Court 4,2026-09-14,19:00 - 20:00,600000,Booked
+2059_4280_20:00,2059,Athletiqs Airdome,4280,Court 4,2026-09-14,20:00 - 21:00,600000,Booked
+2059_4280_21:00,2059,Athletiqs Airdome,4280,Court 4,2026-09-14,21:00 - 22:00,600000,Available
+2059_4281_11:00,2059,Athletiqs Airdome,4281,Court 5,2026-09-14,11:00 - 12:00,400000,Available
+2059_4281_12:00,2059,Athletiqs Airdome,4281,Court 5,2026-09-14,12:00 - 13:00,400000,Available
+2059_4281_13:00,2059,Athletiqs Airdome,4281,Court 5,2026-09-14,13:00 - 14:00,400000,Available
+2059_4281_14:00,2059,Athletiqs Airdome,4281,Court 5,2026-09-14,14:00 - 15:00,400000,Available
+2059_4281_15:00,2059,Athletiqs Airdome,4281,Court 5,2026-09-14,15:00 - 16:00,400000,Available
+2059_4281_16:00,2059,Athletiqs Airdome,4281,Court 5,2026-09-14,16:00 - 17:00,600000,Available
+2059_4281_17:00,2059,Athletiqs Airdome,4281,Court 5,2026-09-14,17:00 - 18:00,600000,Booked
+2059_4281_18:00,2059,Athletiqs Airdome,4281,Court 5,2026-09-14,18:00 - 19:00,600000,Booked
+2059_4281_19:00,2059,Athletiqs Airdome,4281,Court 5,2026-09-14,19:00 - 20:00,600000,Booked
+2059_4281_20:00,2059,Athletiqs Airdome,4281,Court 5,2026-09-14,20:00 - 21:00,600000,Available
+2059_4281_21:00,2059,Athletiqs Airdome,4281,Court 5,2026-09-14,21:00 - 22:00,600000,Available
+2059_4282_11:00,2059,Athletiqs Airdome,4282,Court 6,2026-09-14,11:00 - 12:00,400000,Available
+2059_4282_12:00,2059,Athletiqs Airdome,4282,Court 6,2026-09-14,12:00 - 13:00,400000,Available
+2059_4282_13:00,2059,Athletiqs Airdome,4282,Court 6,2026-09-14,13:00 - 14:00,400000,Available
+2059_4282_14:00,2059,Athletiqs Airdome,4282,Court 6,2026-09-14,14:00 - 15:00,400000,Available
+2059_4282_15:00,2059,Athletiqs Airdome,4282,Court 6,2026-09-14,15:00 - 16:00,400000,Available
+2059_4282_16:00,2059,Athletiqs Airdome,4282,Court 6,2026-09-14,16:00 - 17:00,600000,Available
+2059_4282_17:00,2059,Athletiqs Airdome,4282,Court 6,2026-09-14,17:00 - 18:00,600000,Booked
+2059_4282_18:00,2059,Athletiqs Airdome,4282,Court 6,2026-09-14,18:00 - 19:00,600000,Booked
+2059_4282_19:00,2059,Athletiqs Airdome,4282,Court 6,2026-09-14,19:00 - 20:00,600000,Booked
+2059_4282_20:00,2059,Athletiqs Airdome,4282,Court 6,2026-09-14,20:00 - 21:00,600000,Available
+2059_4282_21:00,2059,Athletiqs Airdome,4282,Court 6,2026-09-14,21:00 - 22:00,600000,Available
+2059_4283_11:00,2059,Athletiqs Airdome,4283,Court 7,2026-09-14,11:00 - 12:00,400000,Available
+2059_4283_12:00,2059,Athletiqs Airdome,4283,Court 7,2026-09-14,12:00 - 13:00,400000,Available
+2059_4283_13:00,2059,Athletiqs Airdome,4283,Court 7,2026-09-14,13:00 - 14:00,400000,Available
+2059_4283_14:00,2059,Athletiqs Airdome,4283,Court 7,2026-09-14,14:00 - 15:00,400000,Available
+2059_4283_15:00,2059,Athletiqs Airdome,4283,Court 7,2026-09-14,15:00 - 16:00,400000,Available
+2059_4283_16:00,2059,Athletiqs Airdome,4283,Court 7,2026-09-14,16:00 - 17:00,600000,Available
+2059_4283_17:00,2059,Athletiqs Airdome,4283,Court 7,2026-09-14,17:00 - 18:00,600000,Available
+2059_4283_18:00,2059,Athletiqs Airdome,4283,Court 7,2026-09-14,18:00 - 19:00,600000,Booked
+2059_4283_19:00,2059,Athletiqs Airdome,4283,Court 7,2026-09-14,19:00 - 20:00,600000,Booked
+2059_4283_20:00,2059,Athletiqs Airdome,4283,Court 7,2026-09-14,20:00 - 21:00,600000,Booked
+2059_4283_21:00,2059,Athletiqs Airdome,4283,Court 7,2026-09-14,21:00 - 22:00,600000,Available
+2059_4284_11:00,2059,Athletiqs Airdome,4284,Court 8,2026-09-14,11:00 - 12:00,400000,Booked
+2059_4284_12:00,2059,Athletiqs Airdome,4284,Court 8,2026-09-14,12:00 - 13:00,400000,Booked
+2059_4284_13:00,2059,Athletiqs Airdome,4284,Court 8,2026-09-14,13:00 - 14:00,400000,Available
+2059_4284_14:00,2059,Athletiqs Airdome,4284,Court 8,2026-09-14,14:00 - 15:00,400000,Available
+2059_4284_15:00,2059,Athletiqs Airdome,4284,Court 8,2026-09-14,15:00 - 16:00,400000,Available
+2059_4284_16:00,2059,Athletiqs Airdome,4284,Court 8,2026-09-14,16:00 - 17:00,600000,Available
+2059_4284_17:00,2059,Athletiqs Airdome,4284,Court 8,2026-09-14,17:00 - 18:00,600000,Available
+2059_4284_18:00,2059,Athletiqs Airdome,4284,Court 8,2026-09-14,18:00 - 19:00,600000,Booked
+2059_4284_19:00,2059,Athletiqs Airdome,4284,Court 8,2026-09-14,19:00 - 20:00,600000,Booked
+2059_4284_20:00,2059,Athletiqs Airdome,4284,Court 8,2026-09-14,20:00 - 21:00,600000,Booked
+2059_4284_21:00,2059,Athletiqs Airdome,4284,Court 8,2026-09-14,21:00 - 22:00,600000,Available
+2059_8791_11:00,2059,Athletiqs Airdome,8791,P - Court 1,2026-09-14,11:00 - 12:00,250000,Available
+2059_8791_12:00,2059,Athletiqs Airdome,8791,P - Court 1,2026-09-14,12:00 - 13:00,250000,Available
+2059_8791_13:00,2059,Athletiqs Airdome,8791,P - Court 1,2026-09-14,13:00 - 14:00,250000,Booked
+2059_8791_14:00,2059,Athletiqs Airdome,8791,P - Court 1,2026-09-14,14:00 - 15:00,250000,Booked
+2059_8791_15:00,2059,Athletiqs Airdome,8791,P - Court 1,2026-09-14,15:00 - 16:00,250000,Booked
+2059_8791_16:00,2059,Athletiqs Airdome,8791,P - Court 1,2026-09-14,16:00 - 17:00,250000,Booked
+2059_8791_17:00,2059,Athletiqs Airdome,8791,P - Court 1,2026-09-14,17:00 - 18:00,250000,Booked
+2059_8791_18:00,2059,Athletiqs Airdome,8791,P - Court 1,2026-09-14,18:00 - 19:00,250000,Available
+2059_8791_19:00,2059,Athletiqs Airdome,8791,P - Court 1,2026-09-14,19:00 - 20:00,250000,Booked
+2059_8791_20:00,2059,Athletiqs Airdome,8791,P - Court 1,2026-09-14,20:00 - 21:00,250000,Booked
+2059_8791_21:00,2059,Athletiqs Airdome,8791,P - Court 1,2026-09-14,21:00 - 22:00,250000,Booked
+2059_8792_11:00,2059,Athletiqs Airdome,8792,P - Court 2,2026-09-14,11:00 - 12:00,250000,Available
+2059_8792_12:00,2059,Athletiqs Airdome,8792,P - Court 2,2026-09-14,12:00 - 13:00,250000,Available
+2059_8792_13:00,2059,Athletiqs Airdome,8792,P - Court 2,2026-09-14,13:00 - 14:00,250000,Available
+2059_8792_14:00,2059,Athletiqs Airdome,8792,P - Court 2,2026-09-14,14:00 - 15:00,250000,Available
+2059_8792_15:00,2059,Athletiqs Airdome,8792,P - Court 2,2026-09-14,15:00 - 16:00,250000,Available
+2059_8792_16:00,2059,Athletiqs Airdome,8792,P - Court 2,2026-09-14,16:00 - 17:00,250000,Available
+2059_8792_17:00,2059,Athletiqs Airdome,8792,P - Court 2,2026-09-14,17:00 - 18:00,250000,Available
+2059_8792_18:00,2059,Athletiqs Airdome,8792,P - Court 2,2026-09-14,18:00 - 19:00,250000,Available
+2059_8792_19:00,2059,Athletiqs Airdome,8792,P - Court 2,2026-09-14,19:00 - 20:00,250000,Booked
+2059_8792_20:00,2059,Athletiqs Airdome,8792,P - Court 2,2026-09-14,20:00 - 21:00,250000,Booked
+2059_8792_21:00,2059,Athletiqs Airdome,8792,P - Court 2,2026-09-14,21:00 - 22:00,250000,Booked
+2059_8793_11:00,2059,Athletiqs Airdome,8793,P - Court 3,2026-09-14,11:00 - 12:00,250000,Available
+2059_8793_12:00,2059,Athletiqs Airdome,8793,P - Court 3,2026-09-14,12:00 - 13:00,250000,Available
+2059_8793_13:00,2059,Athletiqs Airdome,8793,P - Court 3,2026-09-14,13:00 - 14:00,250000,Available
+2059_8793_14:00,2059,Athletiqs Airdome,8793,P - Court 3,2026-09-14,14:00 - 15:00,250000,Available
+2059_8793_15:00,2059,Athletiqs Airdome,8793,P - Court 3,2026-09-14,15:00 - 16:00,250000,Available
+2059_8793_16:00,2059,Athletiqs Airdome,8793,P - Court 3,2026-09-14,16:00 - 17:00,250000,Available
+2059_8793_17:00,2059,Athletiqs Airdome,8793,P - Court 3,2026-09-14,17:00 - 18:00,250000,Available
+2059_8793_18:00,2059,Athletiqs Airdome,8793,P - Court 3,2026-09-14,18:00 - 19:00,250000,Available
+2059_8793_19:00,2059,Athletiqs Airdome,8793,P - Court 3,2026-09-14,19:00 - 20:00,250000,Booked
+2059_8793_20:00,2059,Athletiqs Airdome,8793,P - Court 3,2026-09-14,20:00 - 21:00,250000,Booked
+2059_8793_21:00,2059,Athletiqs Airdome,8793,P - Court 3,2026-09-14,21:00 - 22:00,250000,Available
+1467_2920_11:00,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-14,11:00 - 11:30,192500,Available
+1467_2920_11:30,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-14,11:30 - 12:00,192500,Available
+1467_2920_12:00,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-14,12:00 - 12:30,192500,Available
+1467_2920_12:30,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-14,12:30 - 13:00,192500,Available
+1467_2920_13:00,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-14,13:00 - 13:30,192500,Available
+1467_2920_13:30,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-14,13:30 - 14:00,192500,Available
+1467_2920_14:00,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-14,14:00 - 14:30,192500,Available
+1467_2920_14:30,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-14,14:30 - 15:00,192500,Available
+1467_2920_15:00,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-14,15:00 - 15:30,192500,Available
+1467_2920_15:30,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-14,15:30 - 16:00,192500,Available
+1467_2920_16:00,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-14,16:00 - 16:30,192500,Available
+1467_2920_16:30,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-14,16:30 - 17:00,192500,Available
+1467_2920_17:00,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-14,17:00 - 17:30,220000,Booked
+1467_2920_17:30,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-14,17:30 - 18:00,220000,Booked
+1467_2920_18:00,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-14,18:00 - 18:30,220000,Booked
+1467_2920_18:30,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-14,18:30 - 19:00,220000,Booked
+1467_2920_19:00,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-14,19:00 - 19:30,220000,Booked
+1467_2920_19:30,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-14,19:30 - 20:00,220000,Booked
+1467_2920_20:00,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-14,20:00 - 20:30,220000,Booked
+1467_2920_20:30,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-14,20:30 - 21:00,220000,Booked
+1467_2920_21:00,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-14,21:00 - 21:30,220000,Available
+1467_2920_21:30,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-14,21:30 - 22:00,220000,Available
+1467_2920_22:00,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-14,22:00 - 22:30,192500,Available
+1467_2920_22:30,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-14,22:30 - 23:00,192500,Available
+1467_2920_23:00,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-14,23:00 - 23:30,192500,Available
+1467_2920_23:30,1467,Nine Padel Monas,2920,Court 1 (Green),2026-09-14,23:30 - 00:00,192500,Available
+1467_8945_11:00,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-14,11:00 - 11:30,192500,Available
+1467_8945_11:30,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-14,11:30 - 12:00,192500,Available
+1467_8945_12:00,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-14,12:00 - 12:30,192500,Available
+1467_8945_12:30,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-14,12:30 - 13:00,192500,Available
+1467_8945_13:00,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-14,13:00 - 13:30,192500,Available
+1467_8945_13:30,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-14,13:30 - 14:00,192500,Available
+1467_8945_14:00,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-14,14:00 - 14:30,192500,Available
+1467_8945_14:30,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-14,14:30 - 15:00,192500,Available
+1467_8945_15:00,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-14,15:00 - 15:30,192500,Available
+1467_8945_15:30,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-14,15:30 - 16:00,192500,Available
+1467_8945_16:00,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-14,16:00 - 16:30,192500,Available
+1467_8945_16:30,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-14,16:30 - 17:00,192500,Available
+1467_8945_17:00,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-14,17:00 - 17:30,220000,Available
+1467_8945_17:30,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-14,17:30 - 18:00,220000,Available
+1467_8945_18:00,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-14,18:00 - 18:30,220000,Booked
+1467_8945_18:30,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-14,18:30 - 19:00,220000,Booked
+1467_8945_19:00,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-14,19:00 - 19:30,220000,Booked
+1467_8945_19:30,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-14,19:30 - 20:00,220000,Booked
+1467_8945_20:00,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-14,20:00 - 20:30,220000,Available
+1467_8945_20:30,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-14,20:30 - 21:00,220000,Available
+1467_8945_21:00,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-14,21:00 - 21:30,220000,Available
+1467_8945_21:30,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-14,21:30 - 22:00,220000,Available
+1467_8945_22:00,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-14,22:00 - 22:30,192500,Available
+1467_8945_22:30,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-14,22:30 - 23:00,192500,Available
+1467_8945_23:00,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-14,23:00 - 23:30,192500,Available
+1467_8945_23:30,1467,Nine Padel Monas,8945,Court 2 (Green),2026-09-14,23:30 - 00:00,192500,Available
+1467_8946_11:00,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-14,11:00 - 11:30,192500,Available
+1467_8946_11:30,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-14,11:30 - 12:00,192500,Available
+1467_8946_12:00,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-14,12:00 - 12:30,192500,Available
+1467_8946_12:30,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-14,12:30 - 13:00,192500,Available
+1467_8946_13:00,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-14,13:00 - 13:30,192500,Available
+1467_8946_13:30,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-14,13:30 - 14:00,192500,Available
+1467_8946_14:00,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-14,14:00 - 14:30,192500,Available
+1467_8946_14:30,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-14,14:30 - 15:00,192500,Available
+1467_8946_15:00,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-14,15:00 - 15:30,192500,Available
+1467_8946_15:30,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-14,15:30 - 16:00,192500,Available
+1467_8946_16:00,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-14,16:00 - 16:30,192500,Available
+1467_8946_16:30,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-14,16:30 - 17:00,192500,Available
+1467_8946_17:00,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-14,17:00 - 17:30,220000,Available
+1467_8946_17:30,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-14,17:30 - 18:00,220000,Available
+1467_8946_18:00,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-14,18:00 - 18:30,220000,Booked
+1467_8946_18:30,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-14,18:30 - 19:00,220000,Booked
+1467_8946_19:00,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-14,19:00 - 19:30,220000,Booked
+1467_8946_19:30,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-14,19:30 - 20:00,220000,Booked
+1467_8946_20:00,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-14,20:00 - 20:30,220000,Booked
+1467_8946_20:30,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-14,20:30 - 21:00,220000,Booked
+1467_8946_21:00,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-14,21:00 - 21:30,220000,Available
+1467_8946_21:30,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-14,21:30 - 22:00,220000,Available
+1467_8946_22:00,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-14,22:00 - 22:30,192500,Available
+1467_8946_22:30,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-14,22:30 - 23:00,192500,Available
+1467_8946_23:00,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-14,23:00 - 23:30,192500,Available
+1467_8946_23:30,1467,Nine Padel Monas,8946,Court 3 (Green),2026-09-14,23:30 - 00:00,192500,Available
+1467_8947_11:00,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-14,11:00 - 11:30,192500,Available
+1467_8947_11:30,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-14,11:30 - 12:00,192500,Available
+1467_8947_12:00,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-14,12:00 - 12:30,192500,Available
+1467_8947_12:30,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-14,12:30 - 13:00,192500,Available
+1467_8947_13:00,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-14,13:00 - 13:30,192500,Available
+1467_8947_13:30,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-14,13:30 - 14:00,192500,Available
+1467_8947_14:00,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-14,14:00 - 14:30,192500,Available
+1467_8947_14:30,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-14,14:30 - 15:00,192500,Available
+1467_8947_15:00,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-14,15:00 - 15:30,192500,Available
+1467_8947_15:30,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-14,15:30 - 16:00,192500,Available
+1467_8947_16:00,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-14,16:00 - 16:30,192500,Available
+1467_8947_16:30,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-14,16:30 - 17:00,192500,Available
+1467_8947_17:00,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-14,17:00 - 17:30,220000,Available
+1467_8947_17:30,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-14,17:30 - 18:00,220000,Available
+1467_8947_18:00,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-14,18:00 - 18:30,220000,Booked
+1467_8947_18:30,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-14,18:30 - 19:00,220000,Booked
+1467_8947_19:00,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-14,19:00 - 19:30,220000,Booked
+1467_8947_19:30,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-14,19:30 - 20:00,220000,Booked
+1467_8947_20:00,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-14,20:00 - 20:30,220000,Available
+1467_8947_20:30,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-14,20:30 - 21:00,220000,Available
+1467_8947_21:00,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-14,21:00 - 21:30,220000,Available
+1467_8947_21:30,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-14,21:30 - 22:00,220000,Available
+1467_8947_22:00,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-14,22:00 - 22:30,192500,Available
+1467_8947_22:30,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-14,22:30 - 23:00,192500,Available
+1467_8947_23:00,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-14,23:00 - 23:30,192500,Available
+1467_8947_23:30,1467,Nine Padel Monas,8947,Court 4 (Green),2026-09-14,23:30 - 00:00,192500,Available
+1467_8949_11:00,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-14,11:00 - 11:30,192500,Available
+1467_8949_11:30,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-14,11:30 - 12:00,192500,Available
+1467_8949_12:00,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-14,12:00 - 12:30,192500,Available
+1467_8949_12:30,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-14,12:30 - 13:00,192500,Available
+1467_8949_13:00,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-14,13:00 - 13:30,192500,Available
+1467_8949_13:30,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-14,13:30 - 14:00,192500,Available
+1467_8949_14:00,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-14,14:00 - 14:30,192500,Available
+1467_8949_14:30,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-14,14:30 - 15:00,192500,Available
+1467_8949_15:00,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-14,15:00 - 15:30,192500,Available
+1467_8949_15:30,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-14,15:30 - 16:00,192500,Available
+1467_8949_16:00,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-14,16:00 - 16:30,192500,Available
+1467_8949_16:30,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-14,16:30 - 17:00,192500,Available
+1467_8949_17:00,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-14,17:00 - 17:30,220000,Available
+1467_8949_17:30,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-14,17:30 - 18:00,220000,Available
+1467_8949_18:00,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-14,18:00 - 18:30,220000,Booked
+1467_8949_18:30,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-14,18:30 - 19:00,220000,Booked
+1467_8949_19:00,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-14,19:00 - 19:30,220000,Booked
+1467_8949_19:30,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-14,19:30 - 20:00,220000,Booked
+1467_8949_20:00,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-14,20:00 - 20:30,220000,Available
+1467_8949_20:30,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-14,20:30 - 21:00,220000,Available
+1467_8949_21:00,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-14,21:00 - 21:30,220000,Available
+1467_8949_21:30,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-14,21:30 - 22:00,220000,Available
+1467_8949_22:00,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-14,22:00 - 22:30,192500,Available
+1467_8949_22:30,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-14,22:30 - 23:00,192500,Available
+1467_8949_23:00,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-14,23:00 - 23:30,192500,Available
+1467_8949_23:30,1467,Nine Padel Monas,8949,Court 5 (Black),2026-09-14,23:30 - 00:00,192500,Available
+1467_8950_11:00,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-14,11:00 - 11:30,192500,Booked
+1467_8950_11:30,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-14,11:30 - 12:00,192500,Booked
+1467_8950_12:00,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-14,12:00 - 12:30,192500,Booked
+1467_8950_12:30,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-14,12:30 - 13:00,192500,Booked
+1467_8950_13:00,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-14,13:00 - 13:30,192500,Booked
+1467_8950_13:30,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-14,13:30 - 14:00,192500,Booked
+1467_8950_14:00,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-14,14:00 - 14:30,192500,Booked
+1467_8950_14:30,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-14,14:30 - 15:00,192500,Booked
+1467_8950_15:00,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-14,15:00 - 15:30,192500,Booked
+1467_8950_15:30,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-14,15:30 - 16:00,192500,Booked
+1467_8950_16:00,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-14,16:00 - 16:30,192500,Available
+1467_8950_16:30,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-14,16:30 - 17:00,192500,Available
+1467_8950_17:00,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-14,17:00 - 17:30,220000,Available
+1467_8950_17:30,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-14,17:30 - 18:00,220000,Available
+1467_8950_18:00,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-14,18:00 - 18:30,220000,Booked
+1467_8950_18:30,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-14,18:30 - 19:00,220000,Booked
+1467_8950_19:00,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-14,19:00 - 19:30,220000,Booked
+1467_8950_19:30,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-14,19:30 - 20:00,220000,Booked
+1467_8950_20:00,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-14,20:00 - 20:30,220000,Booked
+1467_8950_20:30,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-14,20:30 - 21:00,220000,Booked
+1467_8950_21:00,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-14,21:00 - 21:30,220000,Available
+1467_8950_21:30,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-14,21:30 - 22:00,220000,Available
+1467_8950_22:00,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-14,22:00 - 22:30,192500,Available
+1467_8950_22:30,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-14,22:30 - 23:00,192500,Available
+1467_8950_23:00,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-14,23:00 - 23:30,192500,Available
+1467_8950_23:30,1467,Nine Padel Monas,8950,Court 6 (Blue),2026-09-14,23:30 - 00:00,192500,Available
+1467_8951_11:00,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-14,11:00 - 11:30,192500,Booked
+1467_8951_11:30,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-14,11:30 - 12:00,192500,Booked
+1467_8951_12:00,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-14,12:00 - 12:30,192500,Booked
+1467_8951_12:30,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-14,12:30 - 13:00,192500,Booked
+1467_8951_13:00,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-14,13:00 - 13:30,192500,Booked
+1467_8951_13:30,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-14,13:30 - 14:00,192500,Booked
+1467_8951_14:00,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-14,14:00 - 14:30,192500,Booked
+1467_8951_14:30,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-14,14:30 - 15:00,192500,Booked
+1467_8951_15:00,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-14,15:00 - 15:30,192500,Booked
+1467_8951_15:30,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-14,15:30 - 16:00,192500,Booked
+1467_8951_16:00,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-14,16:00 - 16:30,192500,Available
+1467_8951_16:30,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-14,16:30 - 17:00,192500,Available
+1467_8951_17:00,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-14,17:00 - 17:30,220000,Available
+1467_8951_17:30,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-14,17:30 - 18:00,220000,Available
+1467_8951_18:00,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-14,18:00 - 18:30,220000,Booked
+1467_8951_18:30,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-14,18:30 - 19:00,220000,Booked
+1467_8951_19:00,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-14,19:00 - 19:30,220000,Booked
+1467_8951_19:30,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-14,19:30 - 20:00,220000,Booked
+1467_8951_20:00,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-14,20:00 - 20:30,220000,Booked
+1467_8951_20:30,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-14,20:30 - 21:00,220000,Booked
+1467_8951_21:00,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-14,21:00 - 21:30,220000,Available
+1467_8951_21:30,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-14,21:30 - 22:00,220000,Available
+1467_8951_22:00,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-14,22:00 - 22:30,192500,Available
+1467_8951_22:30,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-14,22:30 - 23:00,192500,Available
+1467_8951_23:00,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-14,23:00 - 23:30,192500,Available
+1467_8951_23:30,1467,Nine Padel Monas,8951,Court 7 (Blue),2026-09-14,23:30 - 00:00,192500,Available
+1467_8952_11:00,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-14,11:00 - 11:30,192500,Available
+1467_8952_11:30,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-14,11:30 - 12:00,192500,Available
+1467_8952_12:00,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-14,12:00 - 12:30,192500,Available
+1467_8952_12:30,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-14,12:30 - 13:00,192500,Available
+1467_8952_13:00,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-14,13:00 - 13:30,192500,Available
+1467_8952_13:30,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-14,13:30 - 14:00,192500,Available
+1467_8952_14:00,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-14,14:00 - 14:30,192500,Available
+1467_8952_14:30,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-14,14:30 - 15:00,192500,Available
+1467_8952_15:00,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-14,15:00 - 15:30,192500,Available
+1467_8952_15:30,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-14,15:30 - 16:00,192500,Available
+1467_8952_16:00,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-14,16:00 - 16:30,192500,Available
+1467_8952_16:30,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-14,16:30 - 17:00,192500,Available
+1467_8952_17:00,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-14,17:00 - 17:30,220000,Booked
+1467_8952_17:30,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-14,17:30 - 18:00,220000,Booked
+1467_8952_18:00,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-14,18:00 - 18:30,220000,Booked
+1467_8952_18:30,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-14,18:30 - 19:00,220000,Booked
+1467_8952_19:00,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-14,19:00 - 19:30,220000,Available
+1467_8952_19:30,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-14,19:30 - 20:00,220000,Available
+1467_8952_20:00,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-14,20:00 - 20:30,220000,Available
+1467_8952_20:30,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-14,20:30 - 21:00,220000,Available
+1467_8952_21:00,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-14,21:00 - 21:30,220000,Available
+1467_8952_21:30,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-14,21:30 - 22:00,220000,Available
+1467_8952_22:00,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-14,22:00 - 22:30,192500,Available
+1467_8952_22:30,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-14,22:30 - 23:00,192500,Available
+1467_8952_23:00,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-14,23:00 - 23:30,192500,Available
+1467_8952_23:30,1467,Nine Padel Monas,8952,Court 8 (Blue),2026-09-14,23:30 - 00:00,192500,Available
+1467_8953_11:00,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-14,11:00 - 11:30,192500,Available
+1467_8953_11:30,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-14,11:30 - 12:00,192500,Available
+1467_8953_12:00,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-14,12:00 - 12:30,192500,Available
+1467_8953_12:30,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-14,12:30 - 13:00,192500,Available
+1467_8953_13:00,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-14,13:00 - 13:30,192500,Available
+1467_8953_13:30,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-14,13:30 - 14:00,192500,Available
+1467_8953_14:00,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-14,14:00 - 14:30,192500,Available
+1467_8953_14:30,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-14,14:30 - 15:00,192500,Available
+1467_8953_15:00,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-14,15:00 - 15:30,192500,Available
+1467_8953_15:30,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-14,15:30 - 16:00,192500,Available
+1467_8953_16:00,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-14,16:00 - 16:30,192500,Available
+1467_8953_16:30,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-14,16:30 - 17:00,192500,Available
+1467_8953_17:00,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-14,17:00 - 17:30,220000,Available
+1467_8953_17:30,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-14,17:30 - 18:00,220000,Available
+1467_8953_18:00,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-14,18:00 - 18:30,220000,Booked
+1467_8953_18:30,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-14,18:30 - 19:00,220000,Booked
+1467_8953_19:00,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-14,19:00 - 19:30,220000,Booked
+1467_8953_19:30,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-14,19:30 - 20:00,220000,Booked
+1467_8953_20:00,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-14,20:00 - 20:30,220000,Available
+1467_8953_20:30,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-14,20:30 - 21:00,220000,Available
+1467_8953_21:00,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-14,21:00 - 21:30,220000,Available
+1467_8953_21:30,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-14,21:30 - 22:00,220000,Available
+1467_8953_22:00,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-14,22:00 - 22:30,192500,Available
+1467_8953_22:30,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-14,22:30 - 23:00,192500,Available
+1467_8953_23:00,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-14,23:00 - 23:30,192500,Available
+1467_8953_23:30,1467,Nine Padel Monas,8953,Court 9 (Blue),2026-09-14,23:30 - 00:00,192500,Available
+3155_7438_11:00,3155,KOTA COURTS by PADELGRID Mangga Besar,7438,KC 1,2026-09-14,11:00 - 12:00,150000,Available
+3155_7438_12:00,3155,KOTA COURTS by PADELGRID Mangga Besar,7438,KC 1,2026-09-14,12:00 - 13:00,150000,Available
+3155_7438_13:00,3155,KOTA COURTS by PADELGRID Mangga Besar,7438,KC 1,2026-09-14,13:00 - 14:00,150000,Available
+3155_7438_14:00,3155,KOTA COURTS by PADELGRID Mangga Besar,7438,KC 1,2026-09-14,14:00 - 15:00,150000,Available
+3155_7438_15:00,3155,KOTA COURTS by PADELGRID Mangga Besar,7438,KC 1,2026-09-14,15:00 - 16:00,150000,Booked
+3155_7438_16:00,3155,KOTA COURTS by PADELGRID Mangga Besar,7438,KC 1,2026-09-14,16:00 - 17:00,225000,Available
+3155_7438_17:00,3155,KOTA COURTS by PADELGRID Mangga Besar,7438,KC 1,2026-09-14,17:00 - 18:00,225000,Available
+3155_7438_18:00,3155,KOTA COURTS by PADELGRID Mangga Besar,7438,KC 1,2026-09-14,18:00 - 19:00,285000,Booked
+3155_7438_19:00,3155,KOTA COURTS by PADELGRID Mangga Besar,7438,KC 1,2026-09-14,19:00 - 20:00,285000,Booked
+3155_7438_20:00,3155,KOTA COURTS by PADELGRID Mangga Besar,7438,KC 1,2026-09-14,20:00 - 21:00,285000,Available
+3155_7438_21:00,3155,KOTA COURTS by PADELGRID Mangga Besar,7438,KC 1,2026-09-14,21:00 - 22:00,285000,Available
+3155_7438_22:00,3155,KOTA COURTS by PADELGRID Mangga Besar,7438,KC 1,2026-09-14,22:00 - 23:00,150000,Available
+3155_7438_23:00,3155,KOTA COURTS by PADELGRID Mangga Besar,7438,KC 1,2026-09-14,23:00 - 00:00,150000,Booked
+3155_8605_11:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8605,KC 2,2026-09-14,11:00 - 12:00,150000,Available
+3155_8605_12:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8605,KC 2,2026-09-14,12:00 - 13:00,150000,Available
+3155_8605_13:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8605,KC 2,2026-09-14,13:00 - 14:00,150000,Available
+3155_8605_14:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8605,KC 2,2026-09-14,14:00 - 15:00,150000,Available
+3155_8605_15:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8605,KC 2,2026-09-14,15:00 - 16:00,150000,Available
+3155_8605_16:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8605,KC 2,2026-09-14,16:00 - 17:00,225000,Available
+3155_8605_17:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8605,KC 2,2026-09-14,17:00 - 18:00,225000,Available
+3155_8605_18:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8605,KC 2,2026-09-14,18:00 - 19:00,285000,Booked
+3155_8605_19:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8605,KC 2,2026-09-14,19:00 - 20:00,285000,Booked
+3155_8605_20:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8605,KC 2,2026-09-14,20:00 - 21:00,285000,Available
+3155_8605_21:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8605,KC 2,2026-09-14,21:00 - 22:00,285000,Available
+3155_8605_22:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8605,KC 2,2026-09-14,22:00 - 23:00,150000,Available
+3155_8605_23:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8605,KC 2,2026-09-14,23:00 - 00:00,150000,Booked
+3155_8606_11:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8606,KC 3,2026-09-14,11:00 - 12:00,150000,Available
+3155_8606_12:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8606,KC 3,2026-09-14,12:00 - 13:00,150000,Available
+3155_8606_13:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8606,KC 3,2026-09-14,13:00 - 14:00,150000,Available
+3155_8606_14:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8606,KC 3,2026-09-14,14:00 - 15:00,150000,Available
+3155_8606_15:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8606,KC 3,2026-09-14,15:00 - 16:00,150000,Available
+3155_8606_16:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8606,KC 3,2026-09-14,16:00 - 17:00,225000,Available
+3155_8606_17:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8606,KC 3,2026-09-14,17:00 - 18:00,225000,Available
+3155_8606_18:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8606,KC 3,2026-09-14,18:00 - 19:00,285000,Booked
+3155_8606_19:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8606,KC 3,2026-09-14,19:00 - 20:00,285000,Booked
+3155_8606_20:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8606,KC 3,2026-09-14,20:00 - 21:00,285000,Available
+3155_8606_21:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8606,KC 3,2026-09-14,21:00 - 22:00,285000,Available
+3155_8606_22:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8606,KC 3,2026-09-14,22:00 - 23:00,150000,Available
+3155_8606_23:00,3155,KOTA COURTS by PADELGRID Mangga Besar,8606,KC 3,2026-09-14,23:00 - 00:00,150000,Booked
+3196_7550_11:00,3196,Padel Wise Club,7550,Court 1,2026-09-14,11:00 - 12:00,275000,Available
+3196_7550_12:00,3196,Padel Wise Club,7550,Court 1,2026-09-14,12:00 - 13:00,275000,Available
+3196_7550_13:00,3196,Padel Wise Club,7550,Court 1,2026-09-14,13:00 - 14:00,275000,Booked
+3196_7550_14:00,3196,Padel Wise Club,7550,Court 1,2026-09-14,14:00 - 15:00,275000,Booked
+3196_7550_15:00,3196,Padel Wise Club,7550,Court 1,2026-09-14,15:00 - 16:00,275000,Available
+3196_7550_16:00,3196,Padel Wise Club,7550,Court 1,2026-09-14,16:00 - 17:00,275000,Available
+3196_7550_17:00,3196,Padel Wise Club,7550,Court 1,2026-09-14,17:00 - 18:00,550000,Available
+3196_7550_18:00,3196,Padel Wise Club,7550,Court 1,2026-09-14,18:00 - 19:00,550000,Available
+3196_7550_19:00,3196,Padel Wise Club,7550,Court 1,2026-09-14,19:00 - 20:00,550000,Booked
+3196_7550_20:00,3196,Padel Wise Club,7550,Court 1,2026-09-14,20:00 - 21:00,550000,Booked
+3196_7550_21:00,3196,Padel Wise Club,7550,Court 1,2026-09-14,21:00 - 22:00,275000,Available
+3196_7550_22:00,3196,Padel Wise Club,7550,Court 1,2026-09-14,22:00 - 23:00,275000,Available
+3196_7569_11:00,3196,Padel Wise Club,7569,Court 2,2026-09-14,11:00 - 12:00,275000,Available
+3196_7569_12:00,3196,Padel Wise Club,7569,Court 2,2026-09-14,12:00 - 13:00,275000,Available
+3196_7569_13:00,3196,Padel Wise Club,7569,Court 2,2026-09-14,13:00 - 14:00,275000,Available
+3196_7569_14:00,3196,Padel Wise Club,7569,Court 2,2026-09-14,14:00 - 15:00,275000,Available
+3196_7569_15:00,3196,Padel Wise Club,7569,Court 2,2026-09-14,15:00 - 16:00,275000,Available
+3196_7569_16:00,3196,Padel Wise Club,7569,Court 2,2026-09-14,16:00 - 17:00,275000,Available
+3196_7569_17:00,3196,Padel Wise Club,7569,Court 2,2026-09-14,17:00 - 18:00,550000,Available
+3196_7569_18:00,3196,Padel Wise Club,7569,Court 2,2026-09-14,18:00 - 19:00,550000,Available
+3196_7569_19:00,3196,Padel Wise Club,7569,Court 2,2026-09-14,19:00 - 20:00,550000,Booked
+3196_7569_20:00,3196,Padel Wise Club,7569,Court 2,2026-09-14,20:00 - 21:00,550000,Booked
+3196_7569_21:00,3196,Padel Wise Club,7569,Court 2,2026-09-14,21:00 - 22:00,275000,Available
+3196_7569_22:00,3196,Padel Wise Club,7569,Court 2,2026-09-14,22:00 - 23:00,275000,Available
+3196_7585_11:00,3196,Padel Wise Club,7585,Court 3,2026-09-14,11:00 - 12:00,275000,Booked
+3196_7585_12:00,3196,Padel Wise Club,7585,Court 3,2026-09-14,12:00 - 13:00,275000,Booked
+3196_7585_13:00,3196,Padel Wise Club,7585,Court 3,2026-09-14,13:00 - 14:00,275000,Available
+3196_7585_14:00,3196,Padel Wise Club,7585,Court 3,2026-09-14,14:00 - 15:00,275000,Available
+3196_7585_15:00,3196,Padel Wise Club,7585,Court 3,2026-09-14,15:00 - 16:00,275000,Available
+3196_7585_16:00,3196,Padel Wise Club,7585,Court 3,2026-09-14,16:00 - 17:00,275000,Available
+3196_7585_17:00,3196,Padel Wise Club,7585,Court 3,2026-09-14,17:00 - 18:00,550000,Available
+3196_7585_18:00,3196,Padel Wise Club,7585,Court 3,2026-09-14,18:00 - 19:00,550000,Booked
+3196_7585_19:00,3196,Padel Wise Club,7585,Court 3,2026-09-14,19:00 - 20:00,550000,Booked
+3196_7585_20:00,3196,Padel Wise Club,7585,Court 3,2026-09-14,20:00 - 21:00,550000,Available
+3196_7585_21:00,3196,Padel Wise Club,7585,Court 3,2026-09-14,21:00 - 22:00,275000,Available
+3196_7585_22:00,3196,Padel Wise Club,7585,Court 3,2026-09-14,22:00 - 23:00,275000,Available
+3196_8317_11:00,3196,Padel Wise Club,8317,Sauna & Cold Plunge,2026-09-14,11:00 - 12:00,85000,Available
+3196_8317_12:00,3196,Padel Wise Club,8317,Sauna & Cold Plunge,2026-09-14,12:00 - 13:00,85000,Available
+3196_8317_13:00,3196,Padel Wise Club,8317,Sauna & Cold Plunge,2026-09-14,13:00 - 14:00,85000,Available
+3196_8317_14:00,3196,Padel Wise Club,8317,Sauna & Cold Plunge,2026-09-14,14:00 - 15:00,85000,Available
+3196_8317_15:00,3196,Padel Wise Club,8317,Sauna & Cold Plunge,2026-09-14,15:00 - 16:00,85000,Available
+3196_8317_16:00,3196,Padel Wise Club,8317,Sauna & Cold Plunge,2026-09-14,16:00 - 17:00,85000,Available
+3196_8317_17:00,3196,Padel Wise Club,8317,Sauna & Cold Plunge,2026-09-14,17:00 - 18:00,85000,Available
+3196_8317_18:00,3196,Padel Wise Club,8317,Sauna & Cold Plunge,2026-09-14,18:00 - 19:00,85000,Available
+3196_8317_19:00,3196,Padel Wise Club,8317,Sauna & Cold Plunge,2026-09-14,19:00 - 20:00,85000,Available
+3196_8317_20:00,3196,Padel Wise Club,8317,Sauna & Cold Plunge,2026-09-14,20:00 - 21:00,85000,Available
+3196_8317_21:00,3196,Padel Wise Club,8317,Sauna & Cold Plunge,2026-09-14,21:00 - 22:00,85000,Available
+3196_8317_22:00,3196,Padel Wise Club,8317,Sauna & Cold Plunge,2026-09-14,22:00 - 23:00,85000,Available
+3485_8583_11:00,3485,BBS PADEL,8583,Court 1,2026-09-14,11:00 - 12:00,150000,Available
+3485_8583_12:00,3485,BBS PADEL,8583,Court 1,2026-09-14,12:00 - 13:00,150000,Available
+3485_8583_13:00,3485,BBS PADEL,8583,Court 1,2026-09-14,13:00 - 14:00,150000,Available
+3485_8583_14:00,3485,BBS PADEL,8583,Court 1,2026-09-14,14:00 - 15:00,150000,Available
+3485_8583_15:00,3485,BBS PADEL,8583,Court 1,2026-09-14,15:00 - 16:00,150000,Available
+3485_8583_16:00,3485,BBS PADEL,8583,Court 1,2026-09-14,16:00 - 17:00,200000,Available
+3485_8583_17:00,3485,BBS PADEL,8583,Court 1,2026-09-14,17:00 - 18:00,200000,Booked
+3485_8583_18:00,3485,BBS PADEL,8583,Court 1,2026-09-14,18:00 - 19:00,200000,Booked
+3485_8583_19:00,3485,BBS PADEL,8583,Court 1,2026-09-14,19:00 - 20:00,200000,Booked
+3485_8583_20:00,3485,BBS PADEL,8583,Court 1,2026-09-14,20:00 - 21:00,200000,Booked
+3485_8583_21:00,3485,BBS PADEL,8583,Court 1,2026-09-14,21:00 - 22:00,200000,Booked
+3485_8583_22:00,3485,BBS PADEL,8583,Court 1,2026-09-14,22:00 - 23:00,200000,Available
+3485_8584_11:00,3485,BBS PADEL,8584,Court 2,2026-09-14,11:00 - 12:00,150000,Available
+3485_8584_12:00,3485,BBS PADEL,8584,Court 2,2026-09-14,12:00 - 13:00,150000,Available
+3485_8584_13:00,3485,BBS PADEL,8584,Court 2,2026-09-14,13:00 - 14:00,150000,Available
+3485_8584_14:00,3485,BBS PADEL,8584,Court 2,2026-09-14,14:00 - 15:00,150000,Available
+3485_8584_15:00,3485,BBS PADEL,8584,Court 2,2026-09-14,15:00 - 16:00,150000,Available
+3485_8584_16:00,3485,BBS PADEL,8584,Court 2,2026-09-14,16:00 - 17:00,200000,Available
+3485_8584_17:00,3485,BBS PADEL,8584,Court 2,2026-09-14,17:00 - 18:00,200000,Booked
+3485_8584_18:00,3485,BBS PADEL,8584,Court 2,2026-09-14,18:00 - 19:00,200000,Booked
+3485_8584_19:00,3485,BBS PADEL,8584,Court 2,2026-09-14,19:00 - 20:00,200000,Booked
+3485_8584_20:00,3485,BBS PADEL,8584,Court 2,2026-09-14,20:00 - 21:00,200000,Booked
+3485_8584_21:00,3485,BBS PADEL,8584,Court 2,2026-09-14,21:00 - 22:00,200000,Booked
+3485_8584_22:00,3485,BBS PADEL,8584,Court 2,2026-09-14,22:00 - 23:00,200000,Available
+3485_8588_11:00,3485,BBS PADEL,8588,Court 3 lantai 3,2026-09-14,11:00 - 12:00,150000,Available
+3485_8588_12:00,3485,BBS PADEL,8588,Court 3 lantai 3,2026-09-14,12:00 - 13:00,150000,Available
+3485_8588_13:00,3485,BBS PADEL,8588,Court 3 lantai 3,2026-09-14,13:00 - 14:00,150000,Available
+3485_8588_14:00,3485,BBS PADEL,8588,Court 3 lantai 3,2026-09-14,14:00 - 15:00,150000,Available
+3485_8588_15:00,3485,BBS PADEL,8588,Court 3 lantai 3,2026-09-14,15:00 - 16:00,150000,Available
+3485_8588_16:00,3485,BBS PADEL,8588,Court 3 lantai 3,2026-09-14,16:00 - 17:00,200000,Available
+3485_8588_17:00,3485,BBS PADEL,8588,Court 3 lantai 3,2026-09-14,17:00 - 18:00,200000,Available
+3485_8588_18:00,3485,BBS PADEL,8588,Court 3 lantai 3,2026-09-14,18:00 - 19:00,200000,Available
+3485_8588_19:00,3485,BBS PADEL,8588,Court 3 lantai 3,2026-09-14,19:00 - 20:00,200000,Booked
+3485_8588_20:00,3485,BBS PADEL,8588,Court 3 lantai 3,2026-09-14,20:00 - 21:00,200000,Booked
+3485_8588_21:00,3485,BBS PADEL,8588,Court 3 lantai 3,2026-09-14,21:00 - 22:00,200000,Available
+3485_8588_22:00,3485,BBS PADEL,8588,Court 3 lantai 3,2026-09-14,22:00 - 23:00,200000,Available
+3880_9490_11:00,3880,Gru Padel House,9490,Padel Court,2026-09-14,11:00 - 12:00,168000,Available
+3880_9490_12:00,3880,Gru Padel House,9490,Padel Court,2026-09-14,12:00 - 13:00,168000,Available
+3880_9490_13:00,3880,Gru Padel House,9490,Padel Court,2026-09-14,13:00 - 14:00,168000,Available
+3880_9490_14:00,3880,Gru Padel House,9490,Padel Court,2026-09-14,14:00 - 15:00,168000,Available
+3880_9490_15:00,3880,Gru Padel House,9490,Padel Court,2026-09-14,15:00 - 16:00,168000,Available
+3880_9490_16:00,3880,Gru Padel House,9490,Padel Court,2026-09-14,16:00 - 17:00,168000,Available
+3880_9490_17:00,3880,Gru Padel House,9490,Padel Court,2026-09-14,17:00 - 18:00,228000,Available
+3880_9490_18:00,3880,Gru Padel House,9490,Padel Court,2026-09-14,18:00 - 19:00,228000,Available
+3880_9490_19:00,3880,Gru Padel House,9490,Padel Court,2026-09-14,19:00 - 20:00,228000,Available
+3880_9490_20:00,3880,Gru Padel House,9490,Padel Court,2026-09-14,20:00 - 21:00,228000,Available
+3880_9490_21:00,3880,Gru Padel House,9490,Padel Court,2026-09-14,21:00 - 22:00,228000,Available
+4643_11996_11:00,4643,JW COURT PADEL,11996,VIP Court,2026-09-14,11:00 - 12:00,945000,Booked
+4643_11996_12:00,4643,JW COURT PADEL,11996,VIP Court,2026-09-14,12:00 - 13:00,945000,Booked
+4643_11996_13:00,4643,JW COURT PADEL,11996,VIP Court,2026-09-14,13:00 - 14:00,945000,Available
+4643_11996_14:00,4643,JW COURT PADEL,11996,VIP Court,2026-09-14,14:00 - 15:00,945000,Available
+4643_11996_15:00,4643,JW COURT PADEL,11996,VIP Court,2026-09-14,15:00 - 16:00,945000,Available
+4643_11996_16:00,4643,JW COURT PADEL,11996,VIP Court,2026-09-14,16:00 - 17:00,1045000,Available
+4643_11996_17:00,4643,JW COURT PADEL,11996,VIP Court,2026-09-14,17:00 - 18:00,1045000,Available
+4643_11996_18:00,4643,JW COURT PADEL,11996,VIP Court,2026-09-14,18:00 - 19:00,1045000,Available
+4643_11996_19:00,4643,JW COURT PADEL,11996,VIP Court,2026-09-14,19:00 - 20:00,1045000,Available
+4643_11996_20:00,4643,JW COURT PADEL,11996,VIP Court,2026-09-14,20:00 - 21:00,1045000,Available
+4643_11996_21:00,4643,JW COURT PADEL,11996,VIP Court,2026-09-14,21:00 - 22:00,1045000,Available
+4643_11996_22:00,4643,JW COURT PADEL,11996,VIP Court,2026-09-14,22:00 - 23:00,945000,Available
+4643_11996_23:00,4643,JW COURT PADEL,11996,VIP Court,2026-09-14,23:00 - 00:00,945000,Available
+4643_12051_11:00,4643,JW COURT PADEL,12051,Court 2 - Green,2026-09-14,11:00 - 12:00,350000,Available
+4643_12051_12:00,4643,JW COURT PADEL,12051,Court 2 - Green,2026-09-14,12:00 - 13:00,350000,Available
+4643_12051_13:00,4643,JW COURT PADEL,12051,Court 2 - Green,2026-09-14,13:00 - 14:00,350000,Available
+4643_12051_14:00,4643,JW COURT PADEL,12051,Court 2 - Green,2026-09-14,14:00 - 15:00,350000,Available
+4643_12051_15:00,4643,JW COURT PADEL,12051,Court 2 - Green,2026-09-14,15:00 - 16:00,350000,Available
+4643_12051_16:00,4643,JW COURT PADEL,12051,Court 2 - Green,2026-09-14,16:00 - 17:00,450000,Available
+4643_12051_17:00,4643,JW COURT PADEL,12051,Court 2 - Green,2026-09-14,17:00 - 18:00,450000,Available
+4643_12051_18:00,4643,JW COURT PADEL,12051,Court 2 - Green,2026-09-14,18:00 - 19:00,450000,Available
+4643_12051_19:00,4643,JW COURT PADEL,12051,Court 2 - Green,2026-09-14,19:00 - 20:00,450000,Available
+4643_12051_20:00,4643,JW COURT PADEL,12051,Court 2 - Green,2026-09-14,20:00 - 21:00,450000,Available
+4643_12051_21:00,4643,JW COURT PADEL,12051,Court 2 - Green,2026-09-14,21:00 - 22:00,450000,Available
+4643_12051_22:00,4643,JW COURT PADEL,12051,Court 2 - Green,2026-09-14,22:00 - 23:00,350000,Available
+4643_12051_23:00,4643,JW COURT PADEL,12051,Court 2 - Green,2026-09-14,23:00 - 00:00,350000,Available
+4643_12052_11:00,4643,JW COURT PADEL,12052,Court 3 - Blue,2026-09-14,11:00 - 12:00,350000,Available
+4643_12052_12:00,4643,JW COURT PADEL,12052,Court 3 - Blue,2026-09-14,12:00 - 13:00,350000,Available
+4643_12052_13:00,4643,JW COURT PADEL,12052,Court 3 - Blue,2026-09-14,13:00 - 14:00,350000,Available
+4643_12052_14:00,4643,JW COURT PADEL,12052,Court 3 - Blue,2026-09-14,14:00 - 15:00,350000,Available
+4643_12052_15:00,4643,JW COURT PADEL,12052,Court 3 - Blue,2026-09-14,15:00 - 16:00,350000,Available
+4643_12052_16:00,4643,JW COURT PADEL,12052,Court 3 - Blue,2026-09-14,16:00 - 17:00,450000,Available
+4643_12052_17:00,4643,JW COURT PADEL,12052,Court 3 - Blue,2026-09-14,17:00 - 18:00,450000,Available
+4643_12052_18:00,4643,JW COURT PADEL,12052,Court 3 - Blue,2026-09-14,18:00 - 19:00,450000,Booked
+4643_12052_19:00,4643,JW COURT PADEL,12052,Court 3 - Blue,2026-09-14,19:00 - 20:00,450000,Booked
+4643_12052_20:00,4643,JW COURT PADEL,12052,Court 3 - Blue,2026-09-14,20:00 - 21:00,450000,Available
+4643_12052_21:00,4643,JW COURT PADEL,12052,Court 3 - Blue,2026-09-14,21:00 - 22:00,450000,Available
+4643_12052_22:00,4643,JW COURT PADEL,12052,Court 3 - Blue,2026-09-14,22:00 - 23:00,350000,Available
+4643_12052_23:00,4643,JW COURT PADEL,12052,Court 3 - Blue,2026-09-14,23:00 - 00:00,350000,Available
+4643_12053_11:00,4643,JW COURT PADEL,12053,Court 4 - Black,2026-09-14,11:00 - 12:00,350000,Available
+4643_12053_12:00,4643,JW COURT PADEL,12053,Court 4 - Black,2026-09-14,12:00 - 13:00,350000,Available
+4643_12053_13:00,4643,JW COURT PADEL,12053,Court 4 - Black,2026-09-14,13:00 - 14:00,350000,Available
+4643_12053_14:00,4643,JW COURT PADEL,12053,Court 4 - Black,2026-09-14,14:00 - 15:00,350000,Available
+4643_12053_15:00,4643,JW COURT PADEL,12053,Court 4 - Black,2026-09-14,15:00 - 16:00,350000,Available
+4643_12053_16:00,4643,JW COURT PADEL,12053,Court 4 - Black,2026-09-14,16:00 - 17:00,450000,Available
+4643_12053_17:00,4643,JW COURT PADEL,12053,Court 4 - Black,2026-09-14,17:00 - 18:00,450000,Available
+4643_12053_18:00,4643,JW COURT PADEL,12053,Court 4 - Black,2026-09-14,18:00 - 19:00,450000,Booked
+4643_12053_19:00,4643,JW COURT PADEL,12053,Court 4 - Black,2026-09-14,19:00 - 20:00,450000,Booked
+4643_12053_20:00,4643,JW COURT PADEL,12053,Court 4 - Black,2026-09-14,20:00 - 21:00,450000,Available
+4643_12053_21:00,4643,JW COURT PADEL,12053,Court 4 - Black,2026-09-14,21:00 - 22:00,450000,Available
+4643_12053_22:00,4643,JW COURT PADEL,12053,Court 4 - Black,2026-09-14,22:00 - 23:00,350000,Available
+4643_12053_23:00,4643,JW COURT PADEL,12053,Court 4 - Black,2026-09-14,23:00 - 00:00,350000,Available
