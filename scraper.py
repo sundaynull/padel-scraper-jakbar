@@ -13,13 +13,41 @@ HEADERS = {
     "X-Requested-With": "XMLHttpRequest"
 }
 
-def extract_all_jakbar_venues():
+REGIONS = [
+    {
+        "name": "Jakarta Barat",
+        "query": "Kota%20Jakarta%20Barat%2C%20Daerah%20Khusus%20Ibukota%20Jakarta%2C%20Indonesia",
+        "sheet": "Jakarta Barat"
+    },
+    {
+        "name": "Jakarta Selatan",
+        "query": "Kota%20Jakarta%20Selatan%2C%20Daerah%20Khusus%20Ibukota%20Jakarta%2C%20Indonesia",
+        "sheet": "Jakarta Selatan"
+    },
+    {
+        "name": "Jakarta Pusat",
+        "query": "Kota%20Jakarta%20Pusat%2C%20Daerah%20Khusus%20Ibukota%20Jakarta%2C%20Indonesia",
+        "sheet": "Jakarta Pusat"
+    },
+    {
+        "name": "Jakarta Utara",
+        "query": "Kota%20Jakarta%20Utara%2C%20Daerah%20Khusus%20Ibukota%20Jakarta%2C%20Indonesia",
+        "sheet": "Jakarta Utara"
+    },
+    {
+        "name": "Jakarta Timur",
+        "query": "Kota%20Jakarta%20Timur%2C%20Daerah%20Khusus%20Ibukota%20Jakarta%2C%20Indonesia",
+        "sheet": "Jakarta Timur"
+    }
+]
+
+def extract_all_venues(location_query):
     venues = []
     page = 1
     while True:
         url = (
             f"https://ayo.co.id/venues?tipe=venue"
-            f"&lokasi=Kota%20Jakarta%20Barat%2C%20Daerah%20Khusus%20Ibukota%20Jakarta%2C%20Indonesia"
+            f"&lokasi={location_query}"
             f"&cabor=12&page={page}"
         )
         try:
@@ -70,7 +98,7 @@ def get_venue_details(slug):
                     venue_id = int(v_match.group(1))
     except Exception:
         pass
-        
+
     if not venue_id and slug == "hobi-padel-meruya":
         venue_id = 2110
         venue_name = "Hobi Padel Meruya"
@@ -118,64 +146,93 @@ def scrape_slots(venue_id, venue_name, field_id, field_name, target_date):
         pass
     return records
 
-if __name__ == "__main__":
-    tz_wib = zoneinfo.ZoneInfo("Asia/Jakarta")
-    now_wib = datetime.now(tz_wib)
+def process_region(region_info, target_date):
+    name = region_info["name"]
+    query = region_info["query"]
     
-    target_date = now_wib.strftime("%Y-%m-%d")
-    print(f"[{now_wib.strftime('%H:%M:%S')} WIB] Menjalankan sinkronisasi slot untuk tanggal: {target_date}")
+    print(f"\n==========================================")
+    print(f" Memproses: {name}")
+    print(f"==========================================")
     
-    venues_list = extract_all_jakbar_venues()
+    venues_list = extract_all_venues(query)
+    total_v = len(venues_list)
+    print(f"-> Terdeteksi {total_v} slug direktori...")
+    
     current_slots = []
-    
-    for v in venues_list:
+    for idx_v, v in enumerate(venues_list, start=1):
         v_id, v_name = get_venue_details(v["slug"])
         if not v_id:
             continue
+            
         fields = get_field_ids(v_id)
+        if not fields:
+            continue
+            
+        print(f"  [{idx_v}/{total_v}] 🏸 {v_name} ({len(fields)} court)")
         for f in fields:
             slots = scrape_slots(v_id, v_name, f["field_id"], f["field_name"], target_date)
             current_slots.extend(slots)
-            time.sleep(0.08)
+            time.sleep(0.05)
 
     df_current = pd.DataFrame(current_slots)
-    raw_file = f"raw_slots_{target_date}.csv"
-    
+    if df_current.empty:
+        print(f"-> Tidak ada venue/slot aktif di {name}.")
+        return pd.DataFrame()
+
+    clean_name = name.lower().replace(" ", "_")
+    raw_file = f"raw_slots_{clean_name}_{target_date}.csv"
     if os.path.exists(raw_file):
         df_master = pd.read_csv(raw_file)
         combined = pd.concat([df_master, df_current], ignore_index=True)
-        # Menghapus duplikat slot_key dan mempertahankan tarikan data paling baru (keep="last")
         df_final_slots = combined.drop_duplicates(subset=["slot_key"], keep="last")
     else:
         df_final_slots = df_current
 
     df_final_slots.to_csv(raw_file, index=False)
 
-    if not df_final_slots.empty:
-        df_final_slots["price"] = pd.to_numeric(df_final_slots["price"], errors="coerce").fillna(0)
-        venue_records = []
-        
-        for idx, ((venue_id, venue_name), group) in enumerate(df_final_slots.groupby(["venue_id", "venue_name"]), start=1):
-            total_slots = len(group)
-            avail = (group["status"] == "Available").sum()
-            booked = (group["status"] == "Booked").sum()
-            occ = (booked / total_slots * 100) if total_slots > 0 else 0.0
-            rev = group[group["status"] == "Booked"]["price"].sum()
-            
-            p_min, p_max = group["price"].min(), group["price"].max()
-            p_range = f"Rp{p_min:,.0f}".replace(",", ".") if p_min == p_max else f"Rp{p_min:,.0f} - Rp{p_max:,.0f}".replace(",", ".")
+    df_final_slots["price"] = pd.to_numeric(df_final_slots["price"], errors="coerce").fillna(0)
+    venue_records = []
 
-            venue_records.append({
-                "No": idx,
-                "Venue": venue_name,
-                "Slots": total_slots,
-                "Available": avail,
-                "Occupancy %": f"{occ:.1f}%",
-                "Revenue": f"Rp{rev:,.0f}".replace(",", "."),
-                "Range Harga": p_range
-            })
+    for idx, ((venue_id, venue_name), group) in enumerate(df_final_slots.groupby(["venue_id", "venue_name"]), start=1):
+        total_slots = len(group)
+        avail = (group["status"] == "Available").sum()
+        booked = (group["status"] == "Booked").sum()
+        occ = (booked / total_slots * 100) if total_slots > 0 else 0.0
+        rev = group[group["status"] == "Booked"]["price"].sum()
+
+        p_min, p_max = group["price"].min(), group["price"].max()
+        p_range = f"Rp{p_min:,.0f}".replace(",", ".") if p_min == p_max else f"Rp{p_min:,.0f} - Rp{p_max:,.0f}".replace(",", ".")
+
+        venue_records.append({
+            "No": idx,
+            "Venue": venue_name,
+            "Slots": total_slots,
+            "Available": avail,
+            "Occupancy %": f"{occ:.1f}%",
+            "Revenue": f"Rp{rev:,.0f}".replace(",", "."),
+            "Range Harga": p_range
+        })
+
+    df_summary = pd.DataFrame(venue_records)
+    print(f"-> Selesai: {len(df_summary)} venue aktif terangkum di {name}.")
+    return df_summary
+
+if __name__ == "__main__":
+    tz_wib = zoneinfo.ZoneInfo("Asia/Jakarta")
+    now_wib = datetime.now(tz_wib)
+    target_date = now_wib.strftime("%Y-%m-%d")
+    
+    print(f"[{now_wib.strftime('%H:%M:%S')} WIB] Memulai Scraping Padel Seluruh DKI Jakarta: {target_date}")
+    
+    results = {}
+    for region in REGIONS:
+        df_res = process_region(region, target_date)
+        if not df_res.empty:
+            results[region["sheet"]] = df_res
+
+    output_excel = f"laporan_padel_dki_jakarta_{target_date}.xlsx"
+    with pd.ExcelWriter(output_excel, engine="openpyxl") as writer:
+        for sheet_name, df_data in results.items():
+            df_data.to_excel(writer, sheet_name=sheet_name, index=False)
             
-        df_venues = pd.DataFrame(venue_records)
-        final_filename = f"laporan_padel_{target_date}_final.csv"
-        df_venues.to_csv(final_filename, index=False)
-        print(f"Berhasil memperbarui: {final_filename}")
+    print(f"\n[SELESAI] Rekap seluruh DKI Jakarta tersimpan di: {output_excel}")
