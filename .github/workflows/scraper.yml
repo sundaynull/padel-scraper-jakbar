@@ -2,7 +2,8 @@ name: Daily Padel Sync DKI Jakarta
 
 on:
   schedule:
-    - cron: '30 22,4,10,14 * * *'
+    - cron: '3 22,4,10 * * *'
+    - cron: '47 13 * * *'
   workflow_dispatch:
 
 permissions:
@@ -31,7 +32,12 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git pull origin main --rebase || true
-          git add *.xlsx *.csv
-          git commit -m "Auto-update multi-sheet padel metrics DKI Jakarta [skip ci]" || exit 0
-          git push origin main
+          git status
+          git add -A
+          if git diff --staged --quiet; then
+            echo "Tidak ada perubahan file untuk di-commit."
+          else
+            git commit -m "Auto-update multi-sheet padel metrics DKI Jakarta: $(date +'%Y-%m-%d %H:%M:%S') [skip ci]"
+            git pull origin main --rebase || true
+            git push origin main
+          fi
