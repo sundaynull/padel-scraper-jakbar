@@ -2,8 +2,8 @@ name: Daily Padel Sync DKI Jakarta
 
 on:
   schedule:
-    - cron: '3 22,4,10 * * *'
-    - cron: '47 13 * * *'
+    # 22.03 UTC (05.03 WIB), 04.03 UTC (11.03 WIB), 10.03 UTC (17.03 WIB), 14.03 UTC (21.03 WIB)
+    - cron: '3 22,4,10,14 * * *'
   workflow_dispatch:
 
 permissions:
@@ -35,7 +35,7 @@ jobs:
           git status
           git add -A
           if git diff --staged --quiet; then
-            echo "Tidak ada perubahan file untuk di-commit."
+            echo "Tidak ada perubahan file baru untuk di-commit."
           else
             git commit -m "Auto-update multi-sheet padel metrics DKI Jakarta: $(date +'%Y-%m-%d %H:%M:%S') [skip ci]"
             git pull origin main --rebase || true
